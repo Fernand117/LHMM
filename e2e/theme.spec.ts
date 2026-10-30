@@ -40,7 +40,7 @@ test('la elección manual se conserva y prevalece sobre el sistema', async ({ pa
 test('aplica el tema antes de cargar React', async ({ page }) => {
   await page.emulateMedia({ colorScheme: 'light' })
   await page.addInitScript(() => localStorage.setItem('lhmm-theme-v1', 'dark'))
-  await page.route('**/src/main.tsx', (route) => route.abort())
+  await page.route(/\/src\/main\.tsx/, (route) => route.abort())
   await page.goto('/')
   await expect(page.locator('html')).toHaveAttribute('data-theme', 'dark')
   await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute('content', '#151c18')
@@ -76,7 +76,7 @@ test('conserva los guardados de la marca provisional anterior', async ({ page })
   await page.addInitScript(() => localStorage.setItem('entrelineas-saved-v1', JSON.stringify(['sismo-1985'])))
   await page.goto('/')
   await page.getByRole('button', { name: /Mis guardados/ }).click()
-  await expect(page.getByRole('dialog').getByRole('button', { name: 'Explorar: El terremoto de 1985' })).toBeVisible()
+  await expect(page.getByRole('dialog').getByRole('button', { name: 'Explorar: Los sismos de 1985' })).toBeVisible()
 })
 
 test('el selector y las fichas oscuras funcionan en una pantalla pequeña', async ({ page }) => {
@@ -85,7 +85,7 @@ test('el selector y las fichas oscuras funcionan en una pantalla pequeña', asyn
   await page.getByRole('combobox', { name: 'Tema de apariencia' }).selectOption('dark')
   await expect(page.locator('html')).toHaveAttribute('data-theme', 'dark')
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBeTruthy()
-  await page.getByRole('button', { name: 'Explorar: El terremoto de 1985', exact: true }).click()
+  await page.getByRole('button', { name: 'Explorar: Los sismos de 1985', exact: true }).click()
   await expect(page.getByRole('dialog').getByRole('heading', { level: 2 })).toContainText('1985')
   await expect(page.getByRole('dialog')).toHaveCSS('background-color', 'rgb(21, 28, 24)')
   await page.keyboard.press('Escape')

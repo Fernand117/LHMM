@@ -1,0 +1,2894 @@
+[
+  {
+    "id": "p1-alianzas",
+    "year": 1519,
+    "title": "1519: Tlaxcala, la alianza que cambió la guerra",
+    "shortTitle": "La alianza con Tlaxcala",
+    "category": "territorio",
+    "review": "verificada",
+    "people": [
+      "cortes",
+      "malintzin",
+      "moctezuma"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-H02",
+      "P1-H03",
+      "P1-P01",
+      "P1-S02"
+    ],
+    "chapters": [
+      "Primero la guerra, después el pacto",
+      "Una decisión con intereses propios",
+      "El encuentro con Motecuhzoma"
+    ]
+  },
+  {
+    "id": "p1-toxcatl",
+    "year": 1520,
+    "title": "1520: la matanza de Tóxcatl y la ruptura",
+    "shortTitle": "La matanza de Tóxcatl",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "cortes",
+      "alvarado",
+      "cuitlahuac",
+      "cuauhtemoc",
+      "moctezuma"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-H04",
+      "P1-H05",
+      "P1-P02",
+      "P1-C01",
+      "P1-C02"
+    ],
+    "chapters": [
+      "La fiesta interrumpida",
+      "El cerco y la salida nocturna",
+      "La guerra que siguió"
+    ]
+  },
+  {
+    "id": "p1-virreinato",
+    "year": 1524,
+    "endYear": 1571,
+    "title": "De la Audiencia al virreinato: cómo se gobernó Nueva España",
+    "shortTitle": "El gobierno colonial",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "cortes",
+      "carlos-v",
+      "antonio-mendoza",
+      "ramirez-fuenleal",
+      "moya-contreras"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-H07",
+      "P1-H08",
+      "P1-H09",
+      "P1-P05",
+      "P1-P06",
+      "P1-P07",
+      "P1-P08",
+      "P1-P09",
+      "P1-P10"
+    ],
+    "chapters": [
+      "Del mando de Cortés a la Corona",
+      "La segunda Audiencia y el virrey",
+      "Leyes, tributos e Inquisición"
+    ]
+  },
+  {
+    "id": "p1-mixton",
+    "year": 1541,
+    "endYear": 1542,
+    "title": "1541–1542: la guerra del Mixtón y sus cautivos",
+    "shortTitle": "La guerra del Mixtón",
+    "category": "territorio",
+    "review": "verificada",
+    "people": [
+      "antonio-mendoza",
+      "alvarado",
+      "nuno-guzman"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-H10",
+      "P1-C03",
+      "P1-C04"
+    ],
+    "chapters": [
+      "Una rebelión contra el avance colonial",
+      "La guerra no fue solo española",
+      "Cautivos y trabajo forzado"
+    ]
+  },
+  {
+    "id": "p1-iglesia-educacion",
+    "year": 1524,
+    "endYear": 1551,
+    "title": "Evangelización, colegios y la primera universidad",
+    "shortTitle": "Evangelización y educación",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "pedro-gante",
+      "martin-valencia",
+      "sahagun",
+      "carlos-v"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-S03",
+      "P1-S05",
+      "P1-S08"
+    ],
+    "chapters": [
+      "Los doce franciscanos",
+      "Santa Cruz de Tlatelolco",
+      "La universidad y sus límites"
+    ]
+  },
+  {
+    "id": "p1-hospitales",
+    "year": 1524,
+    "endYear": 1553,
+    "title": "Hospitales de la Nueva España: caridad, medicina y segregación",
+    "shortTitle": "Los primeros hospitales",
+    "category": "salud",
+    "review": "corregida",
+    "people": [
+      "cortes",
+      "pedro-gante"
+    ],
+    "sourceIds": [
+      "inah-grandeza",
+      "bnah-hospital-real",
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P1-S04",
+      "P1-M02",
+      "P1-M04",
+      "P1-M06"
+    ],
+    "chapters": [
+      "Tres hospitales, tres públicos",
+      "La medicina que se practicaba",
+      "Una fecha que debe precisarse"
+    ]
+  },
+  {
+    "id": "p1-epidemias",
+    "year": 1520,
+    "endYear": 1581,
+    "title": "Viruela, sarampión y cocoliztli: la catástrofe demográfica",
+    "shortTitle": "Las epidemias del siglo XVI",
+    "category": "salud",
+    "review": "verificada",
+    "people": [
+      "cuitlahuac",
+      "antonio-mendoza"
+    ],
+    "sourceIds": [
+      "inah-grandeza",
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P1-D01",
+      "P1-D02",
+      "P1-D03",
+      "P1-D06",
+      "P1-D09",
+      "P1-M01",
+      "P1-M03",
+      "P1-M05",
+      "P1-M08",
+      "P1-S07"
+    ],
+    "chapters": [
+      "La viruela de 1520",
+      "Sarampión y cocoliztli",
+      "Consecuencias sociales"
+    ]
+  },
+  {
+    "id": "p1-ciencia",
+    "year": 1570,
+    "endYear": 1590,
+    "title": "Saberes médicos y naturalistas del siglo XVI",
+    "shortTitle": "Medicina y naturaleza",
+    "category": "salud",
+    "review": "contextual",
+    "people": [
+      "francisco-hernandez",
+      "sahagun",
+      "juan-cardenas",
+      "agustin-farfan"
+    ],
+    "sourceIds": [
+      "inah-grandeza",
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P1-M07",
+      "P1-M09",
+      "P1-M10"
+    ],
+    "chapters": [
+      "Francisco Hernández y la naturaleza americana",
+      "El Códice Florentino",
+      "La medicina que circulaba"
+    ]
+  },
+  {
+    "id": "p1-pacifico",
+    "year": 1565,
+    "endYear": 1590,
+    "title": "El Pacífico novohispano: Acapulco, Manila y las reducciones",
+    "shortTitle": "Acapulco y el Galeón de Manila",
+    "category": "territorio",
+    "review": "verificada",
+    "people": [
+      "andres-urdaneta"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-S09",
+      "P1-S10"
+    ],
+    "chapters": [
+      "La ruta que unió dos océanos",
+      "Plata, comercio y poder",
+      "Reducciones y congregaciones"
+    ]
+  },
+  {
+    "id": "p1-pirateria",
+    "year": 1550,
+    "endYear": 1590,
+    "title": "Corsarios en el Golfo: comercio, guerra y saqueo",
+    "shortTitle": "Corsarios del Golfo",
+    "category": "seguridad",
+    "review": "contextual",
+    "people": [
+      "john-hawkins",
+      "francis-drake"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-C05",
+      "P1-C06",
+      "P1-C07",
+      "P1-C10"
+    ],
+    "chapters": [
+      "La guerra europea llegó al Golfo",
+      "San Juan de Ulúa, 1568",
+      "Defensas incompletas"
+    ]
+  },
+  {
+    "id": "p1-fraudes",
+    "year": 1570,
+    "endYear": 1590,
+    "title": "Tributo, minería y fraude en el siglo XVI",
+    "shortTitle": "Fraudes y tributos",
+    "category": "seguridad",
+    "review": "contextual",
+    "people": [],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-C08",
+      "P1-C09"
+    ],
+    "chapters": [
+      "El tributo como conflicto",
+      "La plata y sus caminos",
+      "Un delito difícil de separar"
+    ]
+  },
+  {
+    "id": "p1-volcanes",
+    "year": 1533,
+    "endYear": 1590,
+    "title": "Volcanes y erupciones en el registro colonial temprano",
+    "shortTitle": "Erupciones del siglo XVI",
+    "category": "desastres",
+    "review": "contextual",
+    "people": [],
+    "sourceIds": [
+      "unam-desastres"
+    ],
+    "documentCodes": [
+      "P1-D04",
+      "P1-D05",
+      "P1-D07",
+      "P1-D08",
+      "P1-D10"
+    ],
+    "chapters": [
+      "Lo que dicen las fuentes",
+      "El riesgo de la lista",
+      "Vivir cerca del volcán"
+    ]
+  },
+  {
+    "id": "p1-pueblos-hospital",
+    "year": 1540,
+    "endYear": 1550,
+    "title": "Los pueblos-hospital de Vasco de Quiroga",
+    "shortTitle": "Pueblos-hospital de Michoacán",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "vasco-quiroga"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P1-S06"
+    ],
+    "chapters": [
+      "Una utopía colonial",
+      "Hospital, escuela y comunidad",
+      "Evaluar sin idealizar"
+    ]
+  },
+  {
+    "id": "p2-yanga",
+    "year": 1609,
+    "endYear": 1631,
+    "title": "Yanga: resistencia cimarrona y un pueblo libre en 1631",
+    "shortTitle": "Yanga y San Lorenzo de los Negros",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "yanga",
+      "rodrigo-pacheco"
+    ],
+    "sourceIds": [
+      "cultura-yanga",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-H01",
+      "P2-P02",
+      "P2-S01",
+      "P2-C01"
+    ],
+    "chapters": [
+      "La fuga y la montaña",
+      "Negociar desde una posición de fuerza",
+      "Un pueblo con límites coloniales"
+    ]
+  },
+  {
+    "id": "p2-inundaciones",
+    "year": 1629,
+    "endYear": 1634,
+    "title": "1629–1634: la ciudad que vivió bajo el agua",
+    "shortTitle": "Las inundaciones de 1629",
+    "category": "desastres",
+    "review": "verificada",
+    "people": [
+      "rodrigo-pacheco"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-H02",
+      "P2-D03"
+    ],
+    "chapters": [
+      "Una cuenca con salida difícil",
+      "Gobernar la emergencia",
+      "El desagüe como proyecto político"
+    ]
+  },
+  {
+    "id": "p2-palafox",
+    "year": 1642,
+    "title": "Palafox: obispo, virrey interino y conflicto de poderes",
+    "shortTitle": "Juan de Palafox y Nueva España",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "palafox"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-P04"
+    ],
+    "chapters": [
+      "Un obispo en el gobierno",
+      "La disputa con los jesuitas",
+      "Un poder negociado"
+    ]
+  },
+  {
+    "id": "p2-motin-1692",
+    "year": 1692,
+    "title": "1692: el motín del maíz y la crisis de abasto",
+    "shortTitle": "El motín de 1692",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "conde-paredes"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-H05",
+      "P2-P06",
+      "P2-S07",
+      "P2-C07",
+      "P2-D07"
+    ],
+    "chapters": [
+      "El precio que no se podía pagar",
+      "El asalto al palacio",
+      "Después del motín"
+    ]
+  },
+  {
+    "id": "p2-esclavitud",
+    "year": 1650,
+    "endYear": 1750,
+    "title": "Esclavitud africana y castas en la Nueva España",
+    "shortTitle": "Esclavitud y castas",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "yanga"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-S04"
+    ],
+    "chapters": [
+      "Una institución, muchos usos",
+      "Castas y jerarquías",
+      "Resistencia y libertad"
+    ]
+  },
+  {
+    "id": "p2-jesuitas",
+    "year": 1767,
+    "title": "1767: la expulsión de los jesuitas y el costo de una decisión imperial",
+    "shortTitle": "La expulsión de los jesuitas",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "carlos-iii"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-H07",
+      "P2-S09"
+    ],
+    "chapters": [
+      "Una orden que venía de Madrid",
+      "Bienes, colegios y misiones",
+      "Resistencia y memoria"
+    ]
+  },
+  {
+    "id": "p2-borbon",
+    "year": 1765,
+    "endYear": 1786,
+    "title": "Reformas borbónicas: visitas, intendentes y nuevo control imperial",
+    "shortTitle": "Las reformas borbónicas",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "galvez",
+      "carlos-iii"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-P08",
+      "P2-P09"
+    ],
+    "chapters": [
+      "La visita de Gálvez",
+      "Intendentes y provincias",
+      "Reformar y conflictuar"
+    ]
+  },
+  {
+    "id": "p2-iturrigaray",
+    "year": 1808,
+    "title": "1808: el golpe contra Iturrigaray y el miedo a la autonomía",
+    "shortTitle": "El golpe de 1808",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "iturrigaray",
+      "yermo",
+      "primo-verdad"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-H10",
+      "P2-P10"
+    ],
+    "chapters": [
+      "Una monarquía sin rey",
+      "El cabildo y la representación",
+      "El golpe de los comerciantes"
+    ]
+  },
+  {
+    "id": "p2-protomedicato",
+    "year": 1646,
+    "title": "El Protomedicato novohispano: regular la medicina en el imperio",
+    "shortTitle": "El Protomedicato",
+    "category": "salud",
+    "review": "corregida",
+    "people": [],
+    "sourceIds": [
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P2-M02"
+    ],
+    "chapters": [
+      "Quién podía curar",
+      "Una fecha que debe explicarse",
+      "Medicina, poder y exclusión"
+    ]
+  },
+  {
+    "id": "p2-balmis",
+    "year": 1804,
+    "title": "1804: la expedición Balmis y la vacuna contra la viruela",
+    "shortTitle": "La expedición Balmis",
+    "category": "salud",
+    "review": "verificada",
+    "people": [
+      "balmis"
+    ],
+    "sourceIds": [
+      "salud-constitucion",
+      "salud-vacunas"
+    ],
+    "documentCodes": [
+      "P2-M09"
+    ],
+    "chapters": [
+      "Una tecnología frágil",
+      "Vacunar en un territorio enorme",
+      "El límite de una campaña"
+    ]
+  },
+  {
+    "id": "p2-epidemias",
+    "year": 1615,
+    "endYear": 1780,
+    "title": "Epidemias coloniales: lo que el registro permite afirmar",
+    "shortTitle": "Epidemias del Virreinato",
+    "category": "salud",
+    "review": "contextual",
+    "people": [],
+    "sourceIds": [
+      "salud-constitucion",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-M01",
+      "P2-M03",
+      "P2-M04",
+      "P2-M05",
+      "P2-M06",
+      "P2-M07",
+      "P2-M08",
+      "P2-M10",
+      "P2-D02",
+      "P2-D05",
+      "P2-D08"
+    ],
+    "chapters": [
+      "Enfermedad y desigualdad",
+      "Registros incompletos",
+      "Respuestas locales"
+    ]
+  },
+  {
+    "id": "p2-crisis-agricola",
+    "year": 1785,
+    "endYear": 1811,
+    "title": "Hambre y crisis agrícola entre el Virreinato y la Independencia",
+    "shortTitle": "La crisis de subsistencias",
+    "category": "desastres",
+    "review": "contextual",
+    "people": [],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-H08",
+      "P2-D09"
+    ],
+    "chapters": [
+      "El alimento como problema político",
+      "La crisis de 1808–1811",
+      "Una fecha pendiente"
+    ]
+  },
+  {
+    "id": "p2-educacion-censo",
+    "year": 1770,
+    "endYear": 1790,
+    "title": "Educación y censo: el reformismo borbónico en la vida cotidiana",
+    "shortTitle": "Escuelas y censo de Revillagigedo",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "revillagigedo"
+    ],
+    "sourceIds": [
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P2-S08",
+      "P2-S10"
+    ],
+    "chapters": [
+      "Enseñar para ordenar",
+      "Contar para gobernar",
+      "Reforma y exclusión"
+    ]
+  },
+  {
+    "id": "p3-dolores",
+    "year": 1810,
+    "title": "1810: la conspiración de Querétaro y el levantamiento de Dolores",
+    "shortTitle": "El levantamiento de Dolores",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "hidalgo",
+      "allende",
+      "josefa-ortiz",
+      "riano"
+    ],
+    "sourceIds": [
+      "inehrm-independencia",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P3-H01",
+      "P3-P01",
+      "P3-S01",
+      "P3-D01",
+      "P3-C01"
+    ],
+    "chapters": [
+      "Una conspiración de ciudades",
+      "La madrugada que cambió el calendario",
+      "Un movimiento popular y violento"
+    ]
+  },
+  {
+    "id": "p3-alhondiga",
+    "year": 1810,
+    "title": "Guanajuato, 1810: la toma de la Alhóndiga de Granaditas",
+    "shortTitle": "La Alhóndiga de Granaditas",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "hidalgo",
+      "allende",
+      "riano"
+    ],
+    "sourceIds": [
+      "inehrm-independencia",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P3-H02"
+    ],
+    "chapters": [
+      "Un granero convertido en fortaleza",
+      "El asalto y la matanza",
+      "El Pípila: memoria y verificación"
+    ]
+  },
+  {
+    "id": "p3-cadiz",
+    "year": 1812,
+    "title": "1812: la Constitución de Cádiz llega a Nueva España",
+    "shortTitle": "La Constitución de Cádiz",
+    "category": "politica",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "inehrm-independencia"
+    ],
+    "documentCodes": [
+      "P3-P02"
+    ],
+    "chapters": [
+      "Una constitución para ambos mundos",
+      "El juramento y sus límites",
+      "La vuelta atrás"
+    ]
+  },
+  {
+    "id": "p3-hidalgo",
+    "year": 1811,
+    "title": "1811: la captura y ejecución de Hidalgo",
+    "shortTitle": "La caída de Hidalgo",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "hidalgo",
+      "allende",
+      "elizondo"
+    ],
+    "sourceIds": [
+      "inehrm-independencia"
+    ],
+    "documentCodes": [
+      "P3-H03"
+    ],
+    "chapters": [
+      "La retirada hacia el norte",
+      "La traición de Baján",
+      "El castigo ejemplar"
+    ]
+  },
+  {
+    "id": "p3-cuautla",
+    "year": 1812,
+    "title": "Cuautla, 1812: un sitio, una epidemia y una salida nocturna",
+    "shortTitle": "El sitio de Cuautla",
+    "category": "desastres",
+    "review": "verificada",
+    "people": [
+      "morelos",
+      "calleja"
+    ],
+    "sourceIds": [
+      "inehrm-independencia",
+      "inah-grandeza",
+      "unam-fiebres-1813"
+    ],
+    "documentCodes": [
+      "P3-H04",
+      "P3-S03",
+      "P3-C03",
+      "P3-D02",
+      "P3-M01"
+    ],
+    "chapters": [
+      "Una plaza fortificada",
+      "La guerra contra los víveres",
+      "La fuga y la memoria"
+    ]
+  },
+  {
+    "id": "p3-chilpancingo",
+    "year": 1813,
+    "title": "1813: Chilpancingo y los Sentimientos de la Nación",
+    "shortTitle": "El Congreso de Chilpancingo",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "morelos",
+      "guerrero"
+    ],
+    "sourceIds": [
+      "inehrm-independencia",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P3-H05",
+      "P3-P03",
+      "P3-S04",
+      "P3-D03",
+      "P3-M02"
+    ],
+    "chapters": [
+      "La necesidad de un gobierno",
+      "Un programa político",
+      "Las tensiones del congreso"
+    ]
+  },
+  {
+    "id": "p3-apatzingan",
+    "year": 1814,
+    "title": "1814: la Constitución de Apatzingán",
+    "shortTitle": "La Constitución de Apatzingán",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "morelos"
+    ],
+    "sourceIds": [
+      "inehrm-independencia",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P3-P04"
+    ],
+    "chapters": [
+      "Una constitución en movimiento",
+      "Derechos y religión",
+      "El abismo entre el texto y el territorio"
+    ]
+  },
+  {
+    "id": "p3-morelos",
+    "year": 1815,
+    "title": "1815: la captura y ejecución de Morelos",
+    "shortTitle": "La muerte de Morelos",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "morelos",
+      "calleja",
+      "guerrero",
+      "victoria"
+    ],
+    "sourceIds": [
+      "inehrm-independencia",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P3-H06"
+    ],
+    "chapters": [
+      "El declive militar",
+      "El fusilamiento",
+      "La guerra que continuó"
+    ]
+  },
+  {
+    "id": "p3-iguala",
+    "year": 1821,
+    "title": "1821: el Plan de Iguala y la consumación de la Independencia",
+    "shortTitle": "Iguala y la consumación",
+    "category": "politica",
+    "review": "corregida",
+    "people": [
+      "iturbide",
+      "guerrero"
+    ],
+    "sourceIds": [
+      "inehrm-independencia",
+      "inehrm-republica",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P3-H07",
+      "P3-S05"
+    ],
+    "chapters": [
+      "Un pacto entre antiguos enemigos",
+      "Las Tres Garantías",
+      "La entrada a la capital"
+    ]
+  },
+  {
+    "id": "p3-iturbide",
+    "year": 1822,
+    "endYear": 1823,
+    "title": "1822–1823: el Imperio de Iturbide y su caída",
+    "shortTitle": "El Imperio de Iturbide",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "iturbide",
+      "santa-anna",
+      "victoria"
+    ],
+    "sourceIds": [
+      "inehrm-republica"
+    ],
+    "documentCodes": [
+      "P3-P05"
+    ],
+    "chapters": [
+      "De general a emperador",
+      "Un imperio sin base",
+      "Casa Mata y la abdicación"
+    ]
+  },
+  {
+    "id": "p3-1824",
+    "year": 1824,
+    "title": "1824: la primera Constitución federal y Guadalupe Victoria",
+    "shortTitle": "La Constitución de 1824",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "victoria",
+      "iturbide"
+    ],
+    "sourceIds": [
+      "inehrm-republica",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P3-H08",
+      "P3-P06",
+      "P3-C05",
+      "P3-C06"
+    ],
+    "chapters": [
+      "La república federal",
+      "El primer gobierno",
+      "Un Estado con problemas pendientes"
+    ]
+  },
+  {
+    "id": "p3-abolicion",
+    "year": 1829,
+    "title": "1829: la abolición de la esclavitud y la excepción de Texas",
+    "shortTitle": "La abolición de 1829",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "guerrero"
+    ],
+    "sourceIds": [
+      "inehrm-republica"
+    ],
+    "documentCodes": [
+      "P3-S06"
+    ],
+    "chapters": [
+      "Una promesa de la insurgencia",
+      "La excepción de Texas",
+      "El límite de una ley"
+    ]
+  },
+  {
+    "id": "p3-colera-1833",
+    "year": 1833,
+    "title": "1833: el cólera y la reforma de la enseñanza médica",
+    "shortTitle": "El cólera de 1833",
+    "category": "salud",
+    "review": "verificada",
+    "people": [
+      "gomez-farias"
+    ],
+    "sourceIds": [
+      "inehrm-republica",
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P3-S07",
+      "P3-D06",
+      "P3-M04",
+      "P3-M05"
+    ],
+    "chapters": [
+      "La llegada del cólera",
+      "Hospitales sin capacidad",
+      "Una reforma en medio de la crisis"
+    ]
+  },
+  {
+    "id": "p3-influenza",
+    "year": 1826,
+    "endYear": 1836,
+    "title": "1826 y 1836: las influenza que recorrieron el país",
+    "shortTitle": "Las influenza de 1826 y 1836",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P3-D05",
+      "P3-M03",
+      "P3-D07",
+      "P3-M06"
+    ],
+    "chapters": [
+      "1826: de la capital a Yucatán",
+      "1836: una nueva oleada",
+      "Enfermar en un Estado pobre"
+    ]
+  },
+  {
+    "id": "p3-siete-leyes",
+    "year": 1835,
+    "endYear": 1836,
+    "title": "1835–1836: las Siete Leyes, el centralismo y Texas",
+    "shortTitle": "Las Siete Leyes y Texas",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "santa-anna"
+    ],
+    "sourceIds": [
+      "inehrm-republica"
+    ],
+    "documentCodes": [
+      "P3-P07",
+      "P3-H09"
+    ],
+    "chapters": [
+      "Del federalismo al centralismo",
+      "Texas se separa",
+      "Una derrota con consecuencias"
+    ]
+  },
+  {
+    "id": "p3-pasteles",
+    "year": 1838,
+    "title": "1838: la Guerra de los Pasteles y la defensa de Veracruz",
+    "shortTitle": "La Guerra de los Pasteles",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "santa-anna"
+    ],
+    "sourceIds": [
+      "inehrm-republica"
+    ],
+    "documentCodes": [
+      "P3-S08",
+      "P3-C08"
+    ],
+    "chapters": [
+      "Reclamaciones y cañones",
+      "La defensa y la política",
+      "El tratado de 1839"
+    ]
+  },
+  {
+    "id": "p3-intervencion-eeuu",
+    "year": 1846,
+    "endYear": 1848,
+    "title": "1846–1848: la guerra con Estados Unidos y el Tratado de Guadalupe Hidalgo",
+    "shortTitle": "La guerra de 1847",
+    "category": "territorio",
+    "review": "verificada",
+    "people": [
+      "santa-anna"
+    ],
+    "sourceIds": [
+      "inehrm-republica"
+    ],
+    "documentCodes": [
+      "P3-H10",
+      "P3-S09",
+      "P3-D08",
+      "P3-M07",
+      "P3-C09"
+    ],
+    "chapters": [
+      "La guerra que empezó en Texas",
+      "Veracruz y la capital",
+      "El tratado y la cesión"
+    ]
+  },
+  {
+    "id": "p3-tacubaya-acta",
+    "year": 1841,
+    "endYear": 1847,
+    "title": "1841–1847: Tacubaya, el Acta de Reformas y el regreso del federalismo",
+    "shortTitle": "Tacubaya y el Acta de 1847",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "santa-anna"
+    ],
+    "sourceIds": [
+      "inehrm-republica"
+    ],
+    "documentCodes": [
+      "P3-P08",
+      "P3-P09"
+    ],
+    "chapters": [
+      "El pronunciamiento de Tacubaya",
+      "Una década de ensayos",
+      "Federalismo en tiempos de invasión"
+    ]
+  },
+  {
+    "id": "p3-ayutla",
+    "year": 1854,
+    "title": "1854: el Plan de Ayutla y el fin de la dictadura de Santa Anna",
+    "shortTitle": "El Plan de Ayutla",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "santa-anna",
+      "juarez"
+    ],
+    "sourceIds": [
+      "inehrm-republica"
+    ],
+    "documentCodes": [
+      "P3-P10",
+      "P3-S10",
+      "P3-C07",
+      "P3-C10"
+    ],
+    "chapters": [
+      "El descontento contra Santa Anna",
+      "Un programa mínimo",
+      "La caída del dictador"
+    ]
+  },
+  {
+    "id": "p3-colera-recurrente",
+    "year": 1849,
+    "endYear": 1854,
+    "title": "1849–1854: el cólera regresa",
+    "shortTitle": "El cólera de 1849–1854",
+    "category": "salud",
+    "review": "contextual",
+    "people": [],
+    "sourceIds": [
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P3-D09",
+      "P3-M08",
+      "P3-D10"
+    ],
+    "chapters": [
+      "Una enfermedad recurrente",
+      "Ciudades y regiones",
+      "Lo que no se puede afirmar"
+    ]
+  },
+  {
+    "id": "p4-ayutla-1855",
+    "year": 1855,
+    "title": "1855: el triunfo de Ayutla y la Ley Juárez",
+    "shortTitle": "El triunfo de Ayutla",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "juan-alvarez",
+      "comonfort",
+      "santa-anna",
+      "juarez"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-H01",
+      "P4-P01"
+    ],
+    "chapters": [
+      "La caída de Santa Anna",
+      "Un gobierno de transición",
+      "La Ley Juárez"
+    ]
+  },
+  {
+    "id": "p4-ley-lerdo",
+    "year": 1856,
+    "title": "1856: la Ley Lerdo y la desamortización de las corporaciones",
+    "shortTitle": "La Ley Lerdo",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "miguel-lerdo",
+      "comonfort"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-P02",
+      "P4-S01"
+    ],
+    "chapters": [
+      "Una ley contra la propiedad corporativa",
+      "El impacto sobre los pueblos",
+      "La resistencia conservadora"
+    ]
+  },
+  {
+    "id": "p4-constitucion-1857",
+    "year": 1857,
+    "title": "1857: la Constitución liberal y el debate sobre derechos",
+    "shortTitle": "La Constitución de 1857",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "comonfort",
+      "juarez",
+      "ocampo"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-H02",
+      "P4-P03",
+      "P4-S02"
+    ],
+    "chapters": [
+      "Un texto nuevo para un país dividido",
+      "Los límites del consenso",
+      "La entrada en vigor y el golpe"
+    ]
+  },
+  {
+    "id": "p4-tacubaya",
+    "year": 1857,
+    "endYear": 1861,
+    "title": "1857–1861: Tacubaya, la Guerra de Reforma y dos gobiernos",
+    "shortTitle": "Tacubaya y la Guerra de Reforma",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "comonfort",
+      "juarez",
+      "zuloaga",
+      "miramon"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-P04",
+      "P4-H03"
+    ],
+    "chapters": [
+      "El golpe de Comonfort",
+      "Dos presidentes",
+      "El triunfo liberal"
+    ]
+  },
+  {
+    "id": "p4-leyes-reforma",
+    "year": 1859,
+    "title": "1859: las Leyes de Reforma desde Veracruz",
+    "shortTitle": "Las Leyes de Reforma",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "juarez",
+      "ocampo",
+      "miguel-lerdo"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-P05"
+    ],
+    "chapters": [
+      "Legislar en la guerra",
+      "Un Estado civil",
+      "La resistencia y la guerra"
+    ]
+  },
+  {
+    "id": "p4-deuda-1861",
+    "year": 1861,
+    "title": "1861: la suspensión de pagos y el camino a la intervención",
+    "shortTitle": "La deuda de 1861",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "juarez",
+      "napoleon-iii"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-P06"
+    ],
+    "chapters": [
+      "Un erario en ruinas",
+      "La protesta europea",
+      "De la reclamación al imperio"
+    ]
+  },
+  {
+    "id": "p4-puebla-1862",
+    "year": 1862,
+    "title": "1862: la batalla de Puebla y la resistencia a la intervención",
+    "shortTitle": "La batalla de Puebla",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "zaragoza",
+      "lorencez",
+      "juarez"
+    ],
+    "sourceIds": [
+      "inehrm-reforma",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P4-H04",
+      "P4-S03"
+    ],
+    "chapters": [
+      "El avance francés",
+      "El 5 de mayo",
+      "Un símbolo y sus usos"
+    ]
+  },
+  {
+    "id": "p4-segundo-imperio",
+    "year": 1864,
+    "endYear": 1867,
+    "title": "1864: el Segundo Imperio y la llegada de Maximiliano",
+    "shortTitle": "El Segundo Imperio",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "maximiliano",
+      "carlota",
+      "napoleon-iii",
+      "juarez"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-H05",
+      "P4-P07"
+    ],
+    "chapters": [
+      "Una corona ofrecida",
+      "Un emperador entre dos proyectos",
+      "La guerra continúa"
+    ]
+  },
+  {
+    "id": "p4-maximiliano-1867",
+    "year": 1867,
+    "title": "1867: el fusilamiento de Maximiliano y la restauración republicana",
+    "shortTitle": "Querétaro, 1867",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "maximiliano",
+      "miramon",
+      "tomas-mejia",
+      "juarez",
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-reforma"
+    ],
+    "documentCodes": [
+      "P4-H06",
+      "P4-P08"
+    ],
+    "chapters": [
+      "El cerco de Querétaro",
+      "El consejo de guerra",
+      "El fusilamiento y la restauración"
+    ]
+  },
+  {
+    "id": "p4-tuxtepec",
+    "year": 1876,
+    "title": "1876: el Plan de Tuxtepec y el regreso de Porfirio Díaz",
+    "shortTitle": "Tuxtepec y el poder",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz",
+      "lerdo-presidente"
+    ],
+    "sourceIds": [
+      "inehrm-reforma",
+      "inehrm-porfiriato"
+    ],
+    "documentCodes": [
+      "P4-H07",
+      "P4-P09"
+    ],
+    "chapters": [
+      "La rebelión contra Lerdo",
+      "La campaña",
+      "Un nuevo orden"
+    ]
+  },
+  {
+    "id": "p4-porfiriato",
+    "year": 1884,
+    "endYear": 1911,
+    "title": "1884–1911: el Porfiriato, un orden prolongado",
+    "shortTitle": "El Porfiriato",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz",
+      "limantour"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato",
+      "inah-grandeza"
+    ],
+    "documentCodes": [
+      "P4-H08"
+    ],
+    "chapters": [
+      "La construcción del poder",
+      "Modernización y desigualdad",
+      "El costo del orden"
+    ]
+  },
+  {
+    "id": "p4-ferrocarriles",
+    "year": 1880,
+    "endYear": 1910,
+    "title": "1880–1910: ferrocarriles, inversión y migración de trabajadores",
+    "shortTitle": "Los ferrocarriles",
+    "category": "territorio",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato"
+    ],
+    "documentCodes": [
+      "P4-S06"
+    ],
+    "chapters": [
+      "Concesiones y subsidios",
+      "La geografía del progreso",
+      "Trabajo y conflicto"
+    ]
+  },
+  {
+    "id": "p4-escuela-laica",
+    "year": 1868,
+    "endYear": 1905,
+    "title": "1868–1905: la escuela laica y el proyecto educativo",
+    "shortTitle": "La escuela laica",
+    "category": "sociedad",
+    "review": "contextual",
+    "people": [
+      "barreda",
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-reforma",
+      "inehrm-porfiriato",
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P4-S04"
+    ],
+    "chapters": [
+      "Una escuela para el nuevo orden",
+      "El legado de Barreda",
+      "La educación en el Porfiriato"
+    ]
+  },
+  {
+    "id": "p4-yaquis",
+    "year": 1885,
+    "endYear": 1900,
+    "title": "1885–1900: la guerra contra los yaquis en Sonora",
+    "shortTitle": "La guerra contra los yaquis",
+    "category": "seguridad",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato"
+    ],
+    "documentCodes": [
+      "P4-S07"
+    ],
+    "chapters": [
+      "Tierra, agua y autonomía",
+      "Cajeme y la resistencia",
+      "La derrota y la memoria"
+    ]
+  },
+  {
+    "id": "p4-tierra-conflicto",
+    "year": 1878,
+    "endYear": 1892,
+    "title": "1878–1892: tierras, jornales y la rebelión de Tomóchic",
+    "shortTitle": "Tierra y conflicto rural",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato"
+    ],
+    "documentCodes": [
+      "P4-S05",
+      "P4-C04"
+    ],
+    "chapters": [
+      "Deslindes y despojo",
+      "Tomóchic",
+      "La paz armada del campo"
+    ]
+  },
+  {
+    "id": "p4-cananea",
+    "year": 1906,
+    "title": "1906: la huelga de Cananea",
+    "shortTitle": "La huelga de Cananea",
+    "category": "seguridad",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz",
+      "william-greene",
+      "flores-magon"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato",
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P4-H09",
+      "P4-S09",
+      "P4-C09"
+    ],
+    "chapters": [
+      "El pliego petitorio",
+      "La intervención armada",
+      "Un antecedente de la Revolución"
+    ]
+  },
+  {
+    "id": "p4-rio-blanco",
+    "year": 1907,
+    "title": "1907: la huelga textil de Río Blanco y su represión",
+    "shortTitle": "Río Blanco, 1907",
+    "category": "seguridad",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato"
+    ],
+    "documentCodes": [
+      "P4-H10",
+      "P4-S10",
+      "P4-C10"
+    ],
+    "chapters": [
+      "La tienda de raya",
+      "La represión",
+      "El fin de un ciclo"
+    ]
+  },
+  {
+    "id": "p4-creelman",
+    "year": 1908,
+    "title": "1908: la entrevista Díaz-Creelman y la sucesión",
+    "shortTitle": "La entrevista Creelman",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz",
+      "creelman"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato",
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P4-P10"
+    ],
+    "chapters": [
+      "Una declaración inesperada",
+      "La traducción y el debate",
+      "El camino a 1910"
+    ]
+  },
+  {
+    "id": "p4-regeneracion",
+    "year": 1900,
+    "endYear": 1906,
+    "title": "1900–1906: Regeneración y el Partido Liberal Mexicano",
+    "shortTitle": "Regeneración y el PLM",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "flores-magon",
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-porfiriato"
+    ],
+    "documentCodes": [
+      "P4-S08"
+    ],
+    "chapters": [
+      "Un periódico de oposición",
+      "El programa de 1906",
+      "La red de Cananea"
+    ]
+  },
+  {
+    "id": "p4-peste-mazatlan",
+    "year": 1902,
+    "endYear": 1903,
+    "title": "1902–1903: la peste bubónica en Mazatlán",
+    "shortTitle": "La peste de Mazatlán",
+    "category": "salud",
+    "review": "verificada",
+    "people": [
+      "liceaga"
+    ],
+    "sourceIds": [
+      "salud-constitucion",
+      "inehrm-porfiriato"
+    ],
+    "documentCodes": [
+      "P4-D08",
+      "P4-M07"
+    ],
+    "chapters": [
+      "El regreso de la peste",
+      "El cerco sanitario",
+      "La culpa y el prejuicio"
+    ]
+  },
+  {
+    "id": "p4-salud-porfiriato",
+    "year": 1891,
+    "endYear": 1908,
+    "title": "1891–1908: el Estado sanitario y la medicina del Porfiriato",
+    "shortTitle": "La salud del Porfiriato",
+    "category": "salud",
+    "review": "contextual",
+    "people": [
+      "porfirio-diaz",
+      "liceaga"
+    ],
+    "sourceIds": [
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P4-D07",
+      "P4-M01",
+      "P4-M02",
+      "P4-M03",
+      "P4-M04",
+      "P4-M05",
+      "P4-M06",
+      "P4-M08",
+      "P4-M09",
+      "P4-M10"
+    ],
+    "chapters": [
+      "Un código para todo el país",
+      "Hospitales e institutos",
+      "Las enfermedades y sus límites"
+    ]
+  },
+  {
+    "id": "p5-plan-san-luis",
+    "year": 1910,
+    "title": "1910: el Plan de San Luis y el levantamiento maderista",
+    "shortTitle": "El Plan de San Luis",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "madero",
+      "porfirio-diaz"
+    ],
+    "sourceIds": [
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P5-H01",
+      "P5-S01"
+    ],
+    "chapters": [
+      "Un llamado fechado para el futuro",
+      "Qué pedía el plan",
+      "El levantamiento"
+    ]
+  },
+  {
+    "id": "p5-renuncia-diaz",
+    "year": 1911,
+    "title": "1911: los Tratados de Ciudad Juárez y la renuncia de Díaz",
+    "shortTitle": "La renuncia de Díaz",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "porfirio-diaz",
+      "madero"
+    ],
+    "sourceIds": [
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P5-P01"
+    ],
+    "chapters": [
+      "La salida negociada",
+      "La renuncia",
+      "Un triunfo incompleto"
+    ]
+  },
+  {
+    "id": "p5-decena-tragica",
+    "year": 1913,
+    "title": "1913: la Decena Trágica y el asesinato de Madero",
+    "shortTitle": "La Decena Trágica",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "madero",
+      "huerta",
+      "felix-diaz",
+      "pino-suarez",
+      "reyes-heroles"
+    ],
+    "sourceIds": [
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P5-H02",
+      "P5-P02"
+    ],
+    "chapters": [
+      "El levantamiento",
+      "El Pacto de la Embajada",
+      "Los asesinatos"
+    ]
+  },
+  {
+    "id": "p5-veracruz-1914",
+    "year": 1914,
+    "title": "1914: la ocupación estadounidense de Veracruz",
+    "shortTitle": "Veracruz, 1914",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "huerta",
+      "woodrow-wilson"
+    ],
+    "sourceIds": [
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P5-H03"
+    ],
+    "chapters": [
+      "El pretexto del Tampico",
+      "La defensa del puerto",
+      "Consecuencias"
+    ]
+  },
+  {
+    "id": "p5-aguascalientes",
+    "year": 1914,
+    "title": "1914: la Convención de Aguascalientes y la ruptura revolucionaria",
+    "shortTitle": "La Convención de Aguascalientes",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "carranza",
+      "villa",
+      "zapata"
+    ],
+    "sourceIds": [
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P5-P03"
+    ],
+    "chapters": [
+      "Una asamblea de jefes revolucionarios",
+      "El cese de Carranza",
+      "Gutiérrez y la guerra de facciones"
+    ]
+  },
+  {
+    "id": "p5-plan-ayala",
+    "year": 1911,
+    "title": "1911: el Plan de Ayala y el programa zapatista",
+    "shortTitle": "El Plan de Ayala",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "zapata",
+      "madero"
+    ],
+    "sourceIds": [
+      "inehrm-revolucion"
+    ],
+    "documentCodes": [
+      "P5-S02"
+    ],
+    "chapters": [
+      "La ruptura con Madero",
+      "Tierra, montes y aguas",
+      "Un documento que sobrevivió a sus autores"
+    ]
+  },
+  {
+    "id": "p5-constitucion-1917",
+    "year": 1917,
+    "title": "1917: la Constitución de Querétaro y el Estado social",
+    "shortTitle": "La Constitución de 1917",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "carranza"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion",
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P5-H04",
+      "P5-P04"
+    ],
+    "chapters": [
+      "El Congreso de Querétaro",
+      "Los artículos sociales",
+      "Una Constitución y su aplicación"
+    ]
+  },
+  {
+    "id": "p5-agua-prieta",
+    "year": 1920,
+    "title": "1920: el Plan de Agua Prieta y el fin del carrancismo",
+    "shortTitle": "Agua Prieta, 1920",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "carranza",
+      "obregon",
+      "calles"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-H05"
+    ],
+    "chapters": [
+      "La rebelión sonorense",
+      "La caída de Carranza",
+      "La transición"
+    ]
+  },
+  {
+    "id": "p5-cristera",
+    "year": 1926,
+    "endYear": 1929,
+    "title": "1926–1929: la Guerra Cristera",
+    "shortTitle": "La Guerra Cristera",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "calles"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-H06",
+      "P5-S04"
+    ],
+    "chapters": [
+      "Las leyes y la resistencia",
+      "La rebelión armada",
+      "Los acuerdos de 1929"
+    ]
+  },
+  {
+    "id": "p5-sep-1921",
+    "year": 1921,
+    "title": "1921: la creación de la Secretaría de Educación Pública",
+    "shortTitle": "La SEP y Vasconcelos",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "vasconcelos",
+      "obregon"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-S03"
+    ],
+    "chapters": [
+      "Una secretaría nueva",
+      "Vasconcelos al frente",
+      "Alcances y límites"
+    ]
+  },
+  {
+    "id": "p5-pnr",
+    "year": 1929,
+    "endYear": 1930,
+    "title": "1929–1930: la fundación del Partido Nacional Revolucionario",
+    "shortTitle": "El PNR",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "calles",
+      "obregon"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-P05"
+    ],
+    "chapters": [
+      "La crisis de los caudillos",
+      "El manifiesto y el programa",
+      "La convención de Querétaro"
+    ]
+  },
+  {
+    "id": "p5-cardenas-reparto",
+    "year": 1934,
+    "endYear": 1940,
+    "title": "1934–1940: el cardenismo y el reparto agrario",
+    "shortTitle": "Cárdenas y la tierra",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "lazaro-cardenas"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-P06",
+      "P5-S05"
+    ],
+    "chapters": [
+      "La reforma agraria",
+      "Trabajadores y corporaciones",
+      "El legado"
+    ]
+  },
+  {
+    "id": "p5-pri",
+    "year": 1938,
+    "endYear": 1946,
+    "title": "1938–1946: del PRM al Partido Revolucionario Institucional",
+    "shortTitle": "Del PRM al PRI",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "lazaro-cardenas",
+      "miguel-aleman"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-P07"
+    ],
+    "chapters": [
+      "El PRM",
+      "La transición de 1946",
+      "Un partido de Estado"
+    ]
+  },
+  {
+    "id": "p5-petroleo-1938",
+    "year": 1938,
+    "title": "1938: la expropiación petrolera",
+    "shortTitle": "La expropiación petrolera",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "lazaro-cardenas"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-H07"
+    ],
+    "chapters": [
+      "El conflicto laboral",
+      "El anuncio del 18 de marzo",
+      "La respuesta"
+    ]
+  },
+  {
+    "id": "p5-segunda-guerra",
+    "year": 1942,
+    "title": "1942: México en la Segunda Guerra Mundial y el Programa Bracero",
+    "shortTitle": "Guerra y braceros",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "avila-camacho"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-H08",
+      "P5-S06"
+    ],
+    "chapters": [
+      "Los petroleros hundidos",
+      "La movilización",
+      "El Programa Bracero"
+    ]
+  },
+  {
+    "id": "p5-ferrocarrilero",
+    "year": 1958,
+    "endYear": 1959,
+    "title": "1958–1959: el movimiento ferrocarrilero",
+    "shortTitle": "El movimiento ferrocarrilero",
+    "category": "sociedad",
+    "review": "verificada",
+    "people": [
+      "vallejo",
+      "campa"
+    ],
+    "sourceIds": [
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-S07"
+    ],
+    "chapters": [
+      "Las demandas",
+      "La huelga general",
+      "El costo de la disidencia"
+    ]
+  },
+  {
+    "id": "p5-tlatelolco",
+    "year": 1968,
+    "title": "1968: el movimiento estudiantil y Tlatelolco",
+    "shortTitle": "Tlatelolco, 1968",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "diaz-ordaz",
+      "echeverria"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P5-H09",
+      "P5-P08",
+      "P5-S08"
+    ],
+    "chapters": [
+      "El pliego petitorio",
+      "La movilización",
+      "La masacre"
+    ]
+  },
+  {
+    "id": "p5-halconazo",
+    "year": 1971,
+    "title": "1971: el Halconazo del Jueves de Corpus",
+    "shortTitle": "El Halconazo",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "echeverria"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P5-S09"
+    ],
+    "chapters": [
+      "La marcha",
+      "La represión",
+      "La memoria"
+    ]
+  },
+  {
+    "id": "p5-reforma-1977",
+    "year": 1977,
+    "title": "1977: la reforma política y la apertura electoral",
+    "shortTitle": "La reforma de 1977",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "lopez-portillo"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P5-P09"
+    ],
+    "chapters": [
+      "La crisis de representación",
+      "La representación proporcional",
+      "La LFOOPE"
+    ]
+  },
+  {
+    "id": "p5-crisis-1982",
+    "year": 1982,
+    "title": "1982: la crisis de la deuda y la nacionalización de la banca",
+    "shortTitle": "La crisis de 1982",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "lopez-portillo",
+      "de-la-madrid"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P5-H10",
+      "P5-P10",
+      "P5-S10"
+    ],
+    "chapters": [
+      "El endeudamiento",
+      "La nacionalización",
+      "El ajuste"
+    ]
+  },
+  {
+    "id": "p5-influenza-1918",
+    "year": 1918,
+    "title": "1918: la pandemia de influenza en México",
+    "shortTitle": "La influenza de 1918",
+    "category": "salud",
+    "review": "verificada",
+    "people": [
+      "carranza"
+    ],
+    "sourceIds": [
+      "salud-constitucion",
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-D02",
+      "P5-M01"
+    ],
+    "chapters": [
+      "La llegada",
+      "La respuesta sanitaria",
+      "El impacto"
+    ]
+  },
+  {
+    "id": "p5-salud-instituciones",
+    "year": 1921,
+    "endYear": 1943,
+    "title": "1921–1943: la construcción de las instituciones sanitarias",
+    "shortTitle": "Instituciones de salud",
+    "category": "salud",
+    "review": "verificada",
+    "people": [
+      "obregon",
+      "calles",
+      "avila-camacho"
+    ],
+    "sourceIds": [
+      "salud-constitucion",
+      "inehrm-posrevolucion"
+    ],
+    "documentCodes": [
+      "P5-M02",
+      "P5-M03",
+      "P5-M04",
+      "P5-M06",
+      "P5-M07"
+    ],
+    "chapters": [
+      "Higiene y formación",
+      "La salud pública",
+      "El IMSS y la SSA"
+    ]
+  },
+  {
+    "id": "p5-vacunacion",
+    "year": 1956,
+    "endYear": 1973,
+    "title": "1956–1973: la vacunación masiva y el Programa Nacional de Inmunizaciones",
+    "shortTitle": "La vacunación masiva",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "salud-vacunas"
+    ],
+    "documentCodes": [
+      "P5-M08",
+      "P5-M09"
+    ],
+    "chapters": [
+      "La poliomielitis",
+      "El programa de 1973",
+      "Los resultados"
+    ]
+  },
+  {
+    "id": "p5-sinaloa-drogas",
+    "year": 1910,
+    "endYear": 1950,
+    "title": "1910–1950: los primeros circuitos de opio y amapola en Sinaloa",
+    "shortTitle": "Opio y amapola en Sinaloa",
+    "category": "seguridad",
+    "review": "contextual",
+    "people": [
+      "fonseca"
+    ],
+    "sourceIds": [
+      "unam-sinaloa-drogas"
+    ],
+    "documentCodes": [
+      "P5-C01",
+      "P5-C02",
+      "P5-C03",
+      "P5-C04",
+      "P5-C05"
+    ],
+    "chapters": [
+      "Migración china y opio",
+      "La amapola en la sierra",
+      "Redes familiares"
+    ]
+  },
+  {
+    "id": "p6-terremoto-1985",
+    "year": 1985,
+    "title": "1985: los sismos de septiembre y la organización ciudadana",
+    "shortTitle": "Los sismos de 1985",
+    "category": "desastres",
+    "review": "verificada",
+    "people": [
+      "de-la-madrid"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo",
+      "unam-desastres"
+    ],
+    "documentCodes": [
+      "P6-H01",
+      "P6-D01",
+      "P6-S01"
+    ],
+    "chapters": [
+      "El primer sismo",
+      "La segunda sacudida y la respuesta ciudadana",
+      "Costureras, damnificados y reconstrucción"
+    ]
+  },
+  {
+    "id": "p6-eleccion-1988",
+    "year": 1988,
+    "title": "1988: la elección presidencial y la “caída del sistema”",
+    "shortTitle": "La elección de 1988",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "salinas",
+      "cardenas",
+      "clouthier"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-H02",
+      "P6-P01"
+    ],
+    "chapters": [
+      "La jornada y la interrupción",
+      "El triunfo proclamado",
+      "Los resultados oficiales"
+    ]
+  },
+  {
+    "id": "p6-prd-1989",
+    "year": 1989,
+    "title": "1989: la fundación del Partido de la Revolución Democrática",
+    "shortTitle": "La fundación del PRD",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "cardenas"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-P02"
+    ],
+    "chapters": [
+      "La confluencia de la izquierda",
+      "El registro",
+      "Un partido marcado por 1988"
+    ]
+  },
+  {
+    "id": "p6-ife-1990",
+    "year": 1990,
+    "title": "1990: la creación del Instituto Federal Electoral",
+    "shortTitle": "La creación del IFE",
+    "category": "politica",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-P03"
+    ],
+    "chapters": [
+      "El COFIPE",
+      "El nuevo organismo",
+      "Una autonomía incompleta"
+    ]
+  },
+  {
+    "id": "p6-tlcan-ezln-1994",
+    "year": 1994,
+    "title": "1994: el TLCAN y el levantamiento del EZLN",
+    "shortTitle": "TLCAN y EZLN",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "marcos",
+      "salinas"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-H03",
+      "P6-S02"
+    ],
+    "chapters": [
+      "El TLCAN",
+      "El levantamiento",
+      "El cese al fuego"
+    ]
+  },
+  {
+    "id": "p6-colosio-1994",
+    "year": 1994,
+    "title": "1994: el asesinato de Luis Donaldo Colosio",
+    "shortTitle": "El asesinato de Colosio",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "colosio-persona",
+      "zedillo",
+      "salinas"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-H04"
+    ],
+    "chapters": [
+      "La campaña",
+      "El atentado",
+      "La sucesión"
+    ]
+  },
+  {
+    "id": "p6-crisis-1994",
+    "year": 1994,
+    "endYear": 1995,
+    "title": "1994–1995: la devaluación y el “error de diciembre”",
+    "shortTitle": "La crisis de 1994",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "zedillo",
+      "salinas"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-H04"
+    ],
+    "chapters": [
+      "La presión sobre el peso",
+      "El estallido",
+      "El ajuste"
+    ]
+  },
+  {
+    "id": "p6-reforma-1996",
+    "year": 1996,
+    "title": "1996: la reforma electoral y la autonomía del IFE",
+    "shortTitle": "La reforma de 1996",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "zedillo"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-P04"
+    ],
+    "chapters": [
+      "La reforma constitucional",
+      "La reforma legal",
+      "El nuevo sistema"
+    ]
+  },
+  {
+    "id": "p6-1997-mayoria",
+    "year": 1997,
+    "title": "1997: el PRI pierde la mayoría absoluta y Cárdenas gana la capital",
+    "shortTitle": "La elección de 1997",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "cardenas"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-P05"
+    ],
+    "chapters": [
+      "La jornada",
+      "Un nuevo equilibrio",
+      "La toma de posesión"
+    ]
+  },
+  {
+    "id": "p6-acteal-1997",
+    "year": 1997,
+    "title": "1997: la masacre de Acteal",
+    "shortTitle": "La masacre de Acteal",
+    "category": "seguridad",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-S03"
+    ],
+    "chapters": [
+      "El contexto",
+      "La masacre",
+      "Las consecuencias"
+    ]
+  },
+  {
+    "id": "p6-paulina-1997",
+    "year": 1997,
+    "title": "1997: el huracán Paulina y la devastación de Guerrero y Oaxaca",
+    "shortTitle": "El huracán Paulina",
+    "category": "desastres",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "inehrm-contemporaneo",
+      "unam-desastres"
+    ],
+    "documentCodes": [
+      "P6-D03"
+    ],
+    "chapters": [
+      "El impacto",
+      "Acapulco y la costa",
+      "El registro del desastre"
+    ]
+  },
+  {
+    "id": "p6-alternancia-2000",
+    "year": 2000,
+    "title": "2000: la alternancia presidencial y el triunfo de Vicente Fox",
+    "shortTitle": "La alternancia de 2000",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "fox",
+      "labastida"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-H05",
+      "P6-P06"
+    ],
+    "chapters": [
+      "La derrota del PRI",
+      "La acreditación",
+      "El significado"
+    ]
+  },
+  {
+    "id": "p6-eleccion-2006",
+    "year": 2006,
+    "title": "2006: la elección presidencial más cerrada y el fallo del Tribunal",
+    "shortTitle": "La elección de 2006",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "calderon",
+      "lopez-obrador"
+    ],
+    "sourceIds": [
+      "elpais-2006"
+    ],
+    "documentCodes": [
+      "P6-P07"
+    ],
+    "chapters": [
+      "La jornada",
+      "El recuento y la impugnación",
+      "El fallo"
+    ]
+  },
+  {
+    "id": "p6-eleccion-2018",
+    "year": 2018,
+    "title": "2018: el triunfo de López Obrador y la nueva alternancia",
+    "shortTitle": "La elección de 2018",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "lopez-obrador"
+    ],
+    "sourceIds": [
+      "elpais-2018"
+    ],
+    "documentCodes": [
+      "P6-H07"
+    ],
+    "chapters": [
+      "La jornada",
+      "El fin del ciclo priista",
+      "El nuevo gobierno"
+    ]
+  },
+  {
+    "id": "p6-eleccion-2024",
+    "year": 2024,
+    "title": "2024: Claudia Sheinbaum, primera presidenta de México",
+    "shortTitle": "La elección de 2024",
+    "category": "politica",
+    "review": "verificada",
+    "people": [
+      "sheinbaum",
+      "xochitl-galvez",
+      "alvarez-maynez",
+      "lopez-obrador"
+    ],
+    "sourceIds": [
+      "elpais-2024"
+    ],
+    "documentCodes": [
+      "P6-H09",
+      "P6-P09"
+    ],
+    "chapters": [
+      "La jornada",
+      "Los resultados",
+      "La primera presidenta"
+    ]
+  },
+  {
+    "id": "p6-judicial-2025",
+    "year": 2025,
+    "title": "2025: la primera elección popular del Poder Judicial",
+    "shortTitle": "La elección judicial de 2025",
+    "category": "politica",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "elpais-2025"
+    ],
+    "documentCodes": [
+      "P6-H10",
+      "P6-P10"
+    ],
+    "chapters": [
+      "Una elección sin precedentes",
+      "Los resultados",
+      "La transición institucional"
+    ]
+  },
+  {
+    "id": "p6-sida-1981",
+    "year": 1981,
+    "title": "1981: el primer caso documentado de sida en México",
+    "shortTitle": "El primer caso de sida",
+    "category": "salud",
+    "review": "corregida",
+    "people": [],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-M01"
+    ],
+    "chapters": [
+      "El primer registro",
+      "La respuesta inicial",
+      "La vigilancia epidemiológica"
+    ]
+  },
+  {
+    "id": "p6-vacunacion-universal-1991",
+    "year": 1991,
+    "title": "1991: el Programa de Vacunación Universal",
+    "shortTitle": "La vacunación universal",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "salud-vacunas"
+    ],
+    "documentCodes": [
+      "P6-M03"
+    ],
+    "chapters": [
+      "El decreto",
+      "La meta de ocho dosis",
+      "Los resultados"
+    ]
+  },
+  {
+    "id": "p6-seguro-popular-2003",
+    "year": 2003,
+    "title": "2003: la creación del Seguro Popular",
+    "shortTitle": "El Seguro Popular",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P6-M04"
+    ],
+    "chapters": [
+      "La reforma",
+      "El objetivo",
+      "Los límites"
+    ]
+  },
+  {
+    "id": "p6-h1n1-2009",
+    "year": 2009,
+    "title": "2009: la pandemia de influenza A(H1N1)",
+    "shortTitle": "La influenza de 2009",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "salud-constitucion"
+    ],
+    "documentCodes": [
+      "P6-M05"
+    ],
+    "chapters": [
+      "La nueva cepa",
+      "La respuesta",
+      "La normalización"
+    ]
+  },
+  {
+    "id": "p6-covid-2020",
+    "year": 2020,
+    "endYear": 2021,
+    "title": "2020: la emergencia de COVID-19 y el inicio de la vacunación",
+    "shortTitle": "La COVID-19 en México",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "salud-covid-2020",
+      "salud-vacunas-2020"
+    ],
+    "documentCodes": [
+      "P6-H08",
+      "P6-M07",
+      "P6-M08"
+    ],
+    "chapters": [
+      "El primer caso",
+      "La emergencia",
+      "La vacunación"
+    ]
+  },
+  {
+    "id": "p6-imss-bienestar",
+    "year": 1979,
+    "endYear": 2025,
+    "title": "1979–2025: de IMSS-Coplamar a IMSS-Bienestar",
+    "shortTitle": "IMSS-Bienestar",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "imss-bienestar"
+    ],
+    "documentCodes": [
+      "P6-M09"
+    ],
+    "chapters": [
+      "El antecedente",
+      "Los cambios de nombre",
+      "La expansión"
+    ]
+  },
+  {
+    "id": "p6-sarampion-2025",
+    "year": 2025,
+    "endYear": 2026,
+    "title": "2025–2026: el brote de sarampión",
+    "shortTitle": "El brote de sarampión",
+    "category": "salud",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "imss-sarampion"
+    ],
+    "documentCodes": [],
+    "chapters": [
+      "El brote",
+      "La respuesta",
+      "Las lecciones"
+    ]
+  },
+  {
+    "id": "p6-sismos-2017",
+    "year": 2017,
+    "title": "2017: los sismos de septiembre",
+    "shortTitle": "Los sismos de 2017",
+    "category": "desastres",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "unam-desastres"
+    ],
+    "documentCodes": [
+      "P6-D08",
+      "P6-D09"
+    ],
+    "chapters": [
+      "El sismo del 7 de septiembre",
+      "El sismo del 19 de septiembre",
+      "La respuesta"
+    ]
+  },
+  {
+    "id": "p6-otis-2023",
+    "year": 2023,
+    "title": "2023: el huracán Otis y la devastación de Acapulco",
+    "shortTitle": "El huracán Otis",
+    "category": "desastres",
+    "review": "verificada",
+    "people": [],
+    "sourceIds": [
+      "conagua-otis-2023",
+      "elpais-otis-2023"
+    ],
+    "documentCodes": [
+      "P6-D10"
+    ],
+    "chapters": [
+      "La intensificación",
+      "El impacto",
+      "La respuesta"
+    ]
+  },
+  {
+    "id": "p6-cartel-guadalajara",
+    "year": 1985,
+    "endYear": 1997,
+    "title": "1985–1997: el Cártel de Guadalajara y la violencia del narcotráfico",
+    "shortTitle": "El Cártel de Guadalajara",
+    "category": "seguridad",
+    "review": "verificada",
+    "people": [
+      "kiki",
+      "felix-gallardo",
+      "posadas",
+      "amado-carrillo"
+    ],
+    "sourceIds": [
+      "inehrm-contemporaneo"
+    ],
+    "documentCodes": [
+      "P6-C01",
+      "P6-C02",
+      "P6-C03",
+      "P6-C04"
+    ],
+    "chapters": [
+      "El caso Camarena",
+      "La detención de Félix Gallardo",
+      "Posadas y Amado Carrillo"
+    ]
+  },
+  {
+    "id": "p6-zambada-2024",
+    "year": 2024,
+    "title": "2024: la detención de Ismael Zambada y Joaquín Guzmán López",
+    "shortTitle": "La detención de Zambada",
+    "category": "seguridad",
+    "review": "verificada",
+    "people": [
+      "mayo-zambada",
+      "joaquin-guzman-lopez"
+    ],
+    "sourceIds": [
+      "us-embassy-zambada"
+    ],
+    "documentCodes": [
+      "P6-C10"
+    ],
+    "chapters": [
+      "La detención",
+      "Las versiones",
+      "Las consecuencias"
+    ]
+  }
+]

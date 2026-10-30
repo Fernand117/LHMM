@@ -6,8 +6,11 @@ for (const theme of ['light', 'dark'] as const) {
     ['mapa', '/'],
     ['cronología', '/?vista=cronologia'],
     ['conexiones', '/?vista=conexiones'],
-    ['ficha documental', '/?evento=sismo-1985'],
-    ['ficha con versiones', '/?evento=sismo-2017'],
+    ['ficha verificada', '/?evento=p6-terremoto-1985'],
+    ['ficha contextual', '/?evento=p1-volcanes'],
+    ['ficha corregida', '/?evento=p6-sida-1981'],
+    ['ficha con imagen de época', '/?evento=p4-puebla-1862'],
+    ['perfil con retrato', '/?personaje=sor-juana'],
   ]) {
     test(`accesibilidad automática: ${name}, tema ${theme}`, async ({ page }) => {
       await page.emulateMedia({ reducedMotion: 'reduce', colorScheme: theme })
@@ -20,7 +23,7 @@ for (const theme of ['light', 'dark'] as const) {
     })
   }
 
-  for (const button of ['Nuestra forma de documentar', 'Fuentes del archivo', 'Créditos y licencias', 'Mis guardados, 0 historias']) {
+  for (const button of ['Nuestra forma de documentar', 'Fuentes del archivo', 'Créditos y licencias', 'Mis guardados, 0 historias', 'Personajes']) {
     test(`accesibilidad de ${button}, tema ${theme}`, async ({ page }) => {
       await page.emulateMedia({ reducedMotion: 'reduce', colorScheme: theme })
       await page.goto('/')
@@ -30,11 +33,12 @@ for (const theme of ['light', 'dark'] as const) {
     })
   }
 
-  for (const id of ['colosio', 'sismo-2017']) {
-    test(`accesibilidad del análisis de evidencia de ${id}, tema ${theme}`, async ({ page }) => {
+  for (const id of ['p6-sida-1981', 'p6-sarampion-2025']) {
+
+    test(`accesibilidad de las notas de revisión de ${id}, tema ${theme}`, async ({ page }) => {
       await page.emulateMedia({ reducedMotion: 'reduce', colorScheme: theme })
       await page.goto(`/?evento=${id}`)
-      await page.getByRole('tab', { name: 'Versiones y mitos' }).click()
+      await expect(page.getByRole('dialog').locator('.review-notes')).toBeVisible()
       const results = await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag21aa']).analyze()
       expect(results.violations).toEqual([])
     })

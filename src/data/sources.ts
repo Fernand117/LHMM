@@ -1,31 +1,7 @@
 import type { Source } from './types'
+import { researchSources } from './research-sources'
 
-export const sources: Source[] = [
-  { id: 'bbc-conquista', publisher: 'BBC News Mundo', title: 'La gran alianza de pueblos indígenas que ayudó a conquistar Tenochtitlan', url: 'https://www.bbc.com/mundo/noticias-58166458', kind: 'Periodismo', date: '13 ago 2021' },
-  { id: 'cndh-independencia', publisher: 'CNDH', title: 'Inicio de la Independencia de México', url: 'https://www.cndh.org.mx/sites/default/files/documentos/2023-09/FRN_SEP_16-2.pdf', kind: 'Fuente institucional' },
-  { id: 'cndh-revolucion', publisher: 'CNDH', title: 'Inicio de la Revolución Mexicana, lucha popular por la instauración de la democracia', url: 'https://www.cndh.org.mx/sites/default/files/documentos/2023-10/FRN_NOV_20-1.pdf', kind: 'Fuente institucional' },
-  { id: 'inah-constitucion', publisher: 'INAH', title: '1917: el nacimiento de la Constitución que rige a México', url: 'https://www.inah.gob.mx/foto-del-dia/1917-el-nacimiento-de-la-constitucion-que-rige-a-mexico', kind: 'Fuente institucional' },
-  { id: 'inehrm-1968', publisher: 'INEHRM', title: 'Movimiento estudiantil de 1968', url: 'https://www.inehrm.gob.mx/es/inehrm/Movimiento_Estudiantil_1968', kind: 'Fuente institucional' },
-  { id: 'cndh-1968', publisher: 'CNDH', title: 'Matanza de Tlatelolco: vida, libertad de reunión y expresión', url: 'https://www.cndh.org.mx/sites/default/files/documentos/2023-10/FRN_OCT_02-1.pdf', kind: 'Fuente institucional' },
-  { id: 'dea-kiki', publisher: 'DEA', title: 'Justice for Kiki: Enrique Camarena', url: 'https://www.dea.gov/justice-for-kiki', kind: 'Fuente institucional' },
-  { id: 'elpais-guadalajara', publisher: 'EL PAÍS', title: 'Caro Quintero: the legendary drug lord with whom the US will ultimately strike a deal', url: 'https://english.elpais.com/international/2026-10-24/caro-quintero-the-legendary-drug-lord-with-whom-the-us-will-ultimately-strike-a-deal.html', kind: 'Periodismo', date: '24 oct 2026' },
-  { id: 'elpais-sismo85', publisher: 'EL PAÍS', title: 'A 40 años del sismo de 1985 en Ciudad de México', url: 'https://elpais.com/mexico/2025-09-19/a-40-anos-del-sismo-de-1985-en-ciudad-de-mexico.html', kind: 'Periodismo', date: '19 sep 2025' },
-  { id: 'universal-1988', publisher: 'El Universal', title: 'El día en que “se cayó el sistema” y ganó Salinas', url: 'https://www.eluniversal.com.mx/colaboracion/mochilazo-en-el-tiempo/nacion/sociedad/el-dia-en-que-se-cayo-el-sistema-y-gano-salinas', kind: 'Periodismo' },
-  { id: 'latimes-gargallo', publisher: 'Los Angeles Times', title: 'In Mexico, Fear Survives the Death of a Sinister Rural Boss', url: 'https://www.latimes.com/archives/la-xpm-1991-11-09-mn-1077-story.html', kind: 'Periodismo', date: '9 nov 1991' },
-  { id: 'elpais-ezln', publisher: 'EL PAÍS', title: 'A 30 años del alzamiento del EZLN: orígenes y cauces del zapatismo en México', url: 'https://elpais.com/mexico/2024-01-02/a-30-anos-del-alzamiento-del-ezln-origenes-y-cauces-del-zapatismo-en-mexico.html', kind: 'Periodismo', date: '2 ene 2024' },
-  { id: 'elpais-colosio', publisher: 'EL PAÍS', title: 'La Fiscalía reabre la teoría del segundo tirador en el caso del asesinato de Luis Donaldo Colosio', url: 'https://elpais.com/mexico/2024-01-29/la-fiscalia-reabre-la-teoria-del-segundo-tirador-en-el-caso-del-asesinato-de-luis-donaldo-colosio.html', kind: 'Periodismo', date: '29 ene 2024' },
-  { id: 'elpais-colosio25', publisher: 'EL PAÍS', title: 'El caso Colosio revive con la recaptura del “segundo tirador”', url: 'https://elpais.com/mexico/2025-11-16/el-caso-colosio-revive-con-la-recaptura-del-segundo-tirador.html', kind: 'Periodismo', date: '16 nov 2025' },
-  { id: 'bbc-zetas', publisher: 'BBC Mundo', title: 'Los Zetas: al servicio del narcotráfico', url: 'https://news.bbc.co.uk/hi/spanish/latin_america/newsid_7204000/7204869.stm', kind: 'Periodismo', date: '23 ene 2008' },
-  { id: 'insight-fragmentacion', publisher: 'InSight Crime', title: 'Ciclones, Escorpiones y Zetas Vieja Escuela: la guerra por Tamaulipas', url: 'https://insightcrime.org/es/noticias/ciclones-escorpiones-y-zetas-vieja-escuela-la-guerra-por-tamaulipas/', kind: 'Investigación' },
-  { id: 'universal-calderon', publisher: 'El Universal', title: 'Así comenzó la “guerra” contra el narcotráfico de Felipe Calderón', url: 'https://www.eluniversal.com.mx/nacion/seguridad/asi-comenzo-la-guerra-contra-el-narcotrafico-de-felipe-calderon', kind: 'Periodismo' },
-  { id: 'reuters-ayotzinapa', publisher: 'Reuters', title: 'A decade later, Mexico’s Ayotzinapa victims still search for truth and justice', url: 'https://www.reuters.com/world/americas/decade-later-mexicos-ayotzinapa-victims-still-search-truth-justice-2024-09-24/', kind: 'Periodismo', date: '24 sep 2024' },
-  { id: 'giei-ayotzinapa', publisher: 'CIDH / GIEI', title: 'Grupo Interdisciplinario de Expertos Independientes: caso Ayotzinapa', url: 'https://www.oas.org/es/cidh/actividades/giei.asp', kind: 'Investigación' },
-  { id: 'elpais-sismo17', publisher: 'EL PAÍS', title: 'Más de 220 muertos por un fuerte terremoto en México', url: 'https://elpais.com/internacional/2017/09/19/actualidad/1505845600_736646.html', kind: 'Periodismo', date: '20 sep 2017' },
-  { id: 'ssn-sismo17', publisher: 'Servicio Sismológico Nacional · UNAM', title: 'Reporte especial: sismo del 19 de septiembre de 2017, Puebla–Morelos', url: 'http://www.ssn.unam.mx/sismicidad/reportes-especiales/2017/SSNMX_rep_esp_20170919_Puebla-Morelos_M71.pdf', kind: 'Fuente institucional' },
-  { id: 'animal-haarp', publisher: 'Animal Político · El Sabueso', title: 'La tecnología HAARP no provocó el sismo de 7.1 en México', url: 'https://grupoanimal.mx/verificacion-viral/tecnologia-haarp-provoca-sismo-mexico-falso', kind: 'Verificación', date: '9 sep 2021' },
-  { id: 'telemundo-covid', publisher: 'Telemundo', title: 'México confirma primer caso de coronavirus: un hombre que recién viajó a Italia', url: 'https://www.telemundo20.com/noticias/mexico/mexico-confirma-primer-caso-de-coronavirus-un-hombre-que-recien-viajo-a-italia/1994667/', kind: 'Periodismo', date: '28 feb 2020' },
-  { id: 'reuters-mencho', publisher: 'Reuters', title: 'Visit by romantic partner led to El Mencho killing; 25 Mexican troops killed after raid', url: 'https://www.reuters.com/world/live-mexicos-sheinbaum-speak-after-violence-triggered-by-cartel-boss-el-mencho-2026-02-23/', kind: 'Periodismo', date: '23 feb 2026' },
-  { id: 'elpais-mencho', publisher: 'EL PAÍS', title: 'México entierra el “abrazos, no balazos” con la caída del Mencho', url: 'https://elpais.com/mexico/2026-02-23/mexico-entierra-el-abrazos-no-balazos-con-la-caida-del-mencho.html', kind: 'Periodismo', date: '23 feb 2026' },
-]
-
+// Only publications that were actually read and cited by a story. A source can
+// support one specific claim in one story without endorsing the rest.
+export const sources = researchSources
 export const sourceById = Object.fromEntries(sources.map((source) => [source.id, source])) as Record<string, Source>

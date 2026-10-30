@@ -1,0 +1,17 @@
+[
+  { "id": "crono-independencia", "publisher": "INEHRM", "title": "Jaime del Arenal Fenochio, Cronología de la Independencia (1808–1821)", "url": "https://www.inehrm.gob.mx/work/models/inehrm/Resource/437/1/images/crono_independencia.pdf" },
+  { "id": "crono-republica", "publisher": "INEHRM", "title": "David Guerrero y Emma Paula Ruiz, El país en formación (1821–1854)", "url": "https://www.inehrm.gob.mx/work/models/inehrm/Resource/437/1/images/el_pais_en%20formacion.pdf" },
+  { "id": "crono-reforma", "publisher": "INEHRM", "title": "Raúl González Lezama, Reforma Liberal (1854–1876)", "url": "https://www.inehrm.gob.mx/work/models/inehrm/Resource/437/1/images/crono_liberal.pdf" },
+  { "id": "crono-porfiriato", "publisher": "INEHRM", "title": "Pablo Serrano Álvarez, Porfirio Díaz y el Porfiriato (1830–1915)", "url": "https://www.inehrm.gob.mx/work/models/inehrm/Resource/437/1/images/porfirio_porfiriato.pdf" },
+  { "id": "crono-revolucion", "publisher": "INEHRM", "title": "Pablo Serrano Álvarez, coord., Cronología de la Revolución (1906–1917)", "url": "https://www.inehrm.gob.mx/work/models/inehrm/Resource/437/1/images/crono_revolucion.pdf" },
+  { "id": "inah-conquista", "publisher": "INAH", "title": "Luis Humberto Barjau, 1519–1521: alianzas, confrontación y conquistas", "url": "https://mexicograndezaydiversidad.inah.gob.mx/libro/capitulos/07" },
+  { "id": "inah-territorio", "publisher": "INAH", "title": "Chávez Gómez y Velasco Ávila, La Nueva España y la reconfiguración del territorio", "url": "https://mexicograndezaydiversidad.inah.gob.mx/publicacion/capitulo-08.html" },
+  { "id": "inah-instituciones", "publisher": "INAH", "title": "Ethelia Ruiz Medrano, El mundo colonial: sociedad, poder e instituciones", "url": "https://mexicograndezaydiversidad.inah.gob.mx/publicacion/capitulo-10.html" },
+  { "id": "desastres-xml", "publisher": "UNAM · Investigaciones Geográficas", "title": "Irasema Alcántara-Ayala, Desastres en México (texto completo)", "url": "https://www.investigacionesgeograficas.unam.mx/index.php/rig/article/view/60025/54288" },
+  { "id": "inah-grandeza", "publisher": "INAH", "title": "México, grandeza y diversidad (2021)", "url": "https://mexicograndezaydiversidad.inah.gob.mx/libro/MexicoGrandezayDiversidad.pdf" },
+  { "id": "pirateria-pdf", "publisher": "INAH · Antropología", "title": "Piratas y corsarios en el Golfo de México (siglo XVI)", "url": "https://www.revistas.inah.gob.mx/index.php/antropologia/es/article/download/4991/5017" },
+  { "id": "desastres-pdf", "publisher": "UNAM · Investigaciones Geográficas", "title": "Irasema Alcántara-Ayala, Desastres en México: mapas y apuntes sobre una historia inconclusa", "url": "https://www.investigacionesgeograficas.unam.mx/index.php/rig/article/download/60025/53441" },
+  { "id": "gvp-colima", "publisher": "Smithsonian Institution · Global Volcanism Program", "title": "Colima: eruption history", "url": "https://volcano.si.edu/volcano.cfm?vn=341040" },
+  { "id": "ine-historia", "publisher": "Instituto Nacional Electoral", "title": "Historia del IFE y del INE", "url": "https://www.ine.mx/sobre-el-ine/historia" },
+  { "id": "ine-judicial", "publisher": "Instituto Nacional Electoral", "title": "Preguntas frecuentes: elección del Poder Judicial 2025", "url": "https://www.ine.mx/preguntas-frecuentes-eleccion-poder-judicial" }
+]

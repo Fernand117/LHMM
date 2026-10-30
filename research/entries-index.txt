@@ -1,0 +1,360 @@
+P1-H01 | 1519 | Desembarco de Cortés y fundación de la Villa Rica de la Vera Cruz | F01,F02
+P1-H02 | 1519 | Alianza de Cortés con sectores de Tlaxcala | F01,F02,F48
+P1-H03 | 1519 | Encuentro con Motecuhzoma Xocoyotzin | F01,F02
+P1-H04 | 1520 | Matanza de Tóxcatl | F01,F02
+P1-H05 | 1520 | Retirada española de Tenochtitlan | F01,F02
+P1-H06 | 1521 | Caída de México-Tenochtitlan | F15,F01,F02
+P1-H07 | 1524 | Llegada de los Doce franciscanos | F01,F02
+P1-H08 | 1527 | Primera Audiencia de México | F01,F02
+P1-H09 | 1535 | Establecimiento formal del Virreinato de Nueva España | F01,F02
+P1-H10 | 1541-1542 | Guerra del Mixtón | F01,F02
+P1-P01 | 1519 | Constitución del cabildo de Veracruz | F01,F12
+P1-P02 | 1520 | Sustitución política de Motecuhzoma en plena guerra | F01,F12
+P1-P03 | 1521 | Gobierno y repartimientos tras la rendición de Tenochtitlan | F01,F12
+P1-P04 | 1522 | Cortés nombrado gobernador y capitán general | F01,F12
+P1-P05 | 1524 | Instalación del Consejo de Indias | F01,F12
+P1-P06 | 1528 | Consolidación y conflictos de la Primera Audiencia | F01,F12
+P1-P07 | 1531 | Segunda Audiencia y reordenamiento administrativo | F01,F12
+P1-P08 | 1535 | Inicio del gobierno del virrey Antonio de Mendoza | F01,F12
+P1-P09 | 1542 | Promulgación de las Leyes Nuevas | F01,F12
+P1-P10 | 1571 | Establecimiento del Tribunal del Santo Oficio | F01,F12
+P1-S01 | 1519 | Malintzin como intérprete y mediadora | F01,F03
+P1-S02 | 1520 | Participación de pueblos aliados en la guerra | F48,F01,F03
+P1-S03 | 1524 | Evangelización franciscana y educación comunitaria | F01,F03
+P1-S04 | 1531 | Fundación del Hospital de San José de los Naturales | F05,F01,F03
+P1-S05 | 1536 | Fundación del Colegio de Santa Cruz de Tlatelolco | F33,F01,F03
+P1-S06 | 1540s | Establecimiento de pueblos-hospital en Michoacán | F01,F03
+P1-S07 | 1545-1548 | Crisis demográfica indígena por cocoliztli | F03,F01
+P1-S08 | 1551 | Creación de la Real Universidad de México | F01,F03
+P1-S09 | 1565 | Comienzo de la ruta regular Manila-Acapulco | F01,F03
+P1-S10 | 1570s-1590s | Reducciones y congregaciones de pueblos indígenas | F01,F03
+P1-C01 | 1520s | Despojo colectivo de bienes en campañas de conquista | F06,F01
+P1-C02 | 1520s-1540s | Abusos y apropiaciones en encomiendas | F06,F01
+P1-C03 | 1530s | Captura y comercio forzoso de indígenas en fronteras | F06,F01
+P1-C04 | 1540s | Tráfico de cautivos durante la guerra del Mixtón | F06,F01
+P1-C05 | 1550s | Amenaza de corsarios franceses en el Golfo | F06,F01
+P1-C06 | 1568 | Enfrentamiento con la expedición de John Hawkins | F06,F01
+P1-C07 | 1560s-1590s | Contrabando caribeño de mercancías y cautivos | F06,F01
+P1-C08 | 1570s | Disputas por cobros irregulares de tributo | F06,F01
+P1-C09 | 1580s | Fraudes y circulación clandestina en minería de plata | F06,F01
+P1-C10 | 1590s | Piratería y vigilancia de la navegación novohispana | F06,F01
+P1-D01 | 1520 | Crisis de abastecimiento durante el asedio de Tenochtitlan | F15,F11,F03
+P1-D02 | 1520-1521 | Epidemia de viruela y colapso demográfico | F15,F11,F03
+P1-D03 | 1531 | Epidemia de sarampión | F15,F11,F03
+P1-D04 | 1533 | Actividad eruptiva registrada del Pico de Orizaba | F11,F03
+P1-D05 | 1539 | Nuevo episodio de actividad del Pico de Orizaba | F11,F03
+P1-D06 | 1545-1548 | Gran epidemia de cocoliztli | F03,F11
+P1-D07 | 1560 | Actividad volcánica histórica del Volcán de Colima | F11,F03
+P1-D08 | 1566-1569 | Episodios del Pico de Orizaba | F11,F03
+P1-D09 | 1576-1581 | Cocoliztli de 1576 | F03,F11
+P1-D10 | 1585-1590 | Episodios del Volcán de Colima | F11,F03
+P1-M01 | 1520 | Viruela y muerte de Cuitláhuac | F15,F03
+P1-M02 | 1524 | Fundación del Hospital de Jesús | F04,F15,F03
+P1-M03 | 1531 | Epidemia de sarampión en Nueva España | F15,F03
+P1-M04 | 1531 | Hospital de San José para población indígena | F05,F15,F03
+P1-M05 | 1545 | Primera gran crisis de cocoliztli | F03,F15
+P1-M06 | 1553 | Hospital Real de Naturales | F05,F15,F03
+P1-M07 | 1570-1577 | Expedición científica de Francisco Hernández | F15,F03
+P1-M08 | 1576 | Segunda epidemia mayor de cocoliztli | F03,F15
+P1-M09 | 1577 | Conclusión del Códice Florentino | F33,F15,F03
+P1-M10 | 1590s | Circulación de tratados médicos de Juan de Cárdenas y Agustín Farfán | F15,F03
+P2-H01 | 1631 | Reconocimiento de San Lorenzo de los Negros como pueblo libre | F12,F09
+P2-H02 | 1629 | Gran inundación de Ciudad de México | F12,F09
+P2-H03 | 1640 | Separación administrativa de Portugal y conflictos imperiales | F12,F09
+P2-H04 | 1683 | Asalto pirata de Lorencillo a Veracruz | F07,F12,F09
+P2-H05 | 1692 | Motín del hambre en Ciudad de México | F12,F09
+P2-H06 | 1713 | Consolidación de contratos del asiento de esclavos tras Utrecht | F12,F09
+P2-H07 | 1767 | Expulsión de jesuitas | F12,F09
+P2-H08 | 1785-1786 | Año del hambre | F12,F09
+P2-H09 | 1788 | Inicio de la Gaceta de Literatura de México y clima ilustrado | F12,F09
+P2-H10 | 1808 | Crisis monárquica y golpe contra Iturrigaray | F12,F09
+P2-P01 | 1601 | Continuidad de gobierno imperial bajo la Casa de Austria | F12,F17
+P2-P02 | 1609-1631 | Resistencia, negociación y reconocimiento de Yanga | F08,F12,F17
+P2-P03 | 1624 | Tumulto y destitución del virrey Gelves | F12,F17
+P2-P04 | 1642 | Intervención política del obispo-virrey Juan de Palafox | F12,F17
+P2-P05 | 1680 | Gobierno del virrey conde de Paredes | F12,F17
+P2-P06 | 1692 | Respuesta del gobierno al motín por alimentos | F12,F17
+P2-P07 | 1717 | Reacomodos administrativos de la monarquía borbónica | F12,F17
+P2-P08 | 1765 | Visita general de José de Gálvez | F12,F17
+P2-P09 | 1786 | Ordenanza de Intendentes | F12,F17
+P2-P10 | 1808 | Golpe de los comerciantes peninsulares contra Iturrigaray | F12,F17
+P2-S01 | 1631 | Reconocimiento de la comunidad libre de San Lorenzo de los Negros | F08,F09,F10
+P2-S02 | 1620s | Expansión de gremios y corporaciones urbanas | F09,F10
+P2-S03 | 1648 | Devoción guadalupana en la literatura impresa | F09,F10
+P2-S04 | 1650s | Redes de esclavitud africana y trabajo urbano | F08,F09,F10
+P2-S05 | 1680 | Obra y vida intelectual de sor Juana | F09,F10
+P2-S06 | 1682 | Protestas por monopolio de tortillas y pan | F09,F10
+P2-S07 | 1692 | Motín urbano por escasez de maíz | F09,F10
+P2-S08 | 1730s | Escuelas y redes de educación colonial | F09,F10
+P2-S09 | 1767 | Resistencia popular a la expulsión jesuita | F09,F10
+P2-S10 | 1790 | Censo de Revillagigedo | F09,F10
+P2-C01 | 1609 | Cuadrillas de cimarrones y ataques a caminos según expedientes coloniales | F08,F07,F09
+P2-C02 | 1620s | Mercado clandestino frente al monopolio comercial | F07,F09
+P2-C03 | 1640s | Sospechas y controles sobre redes mercantiles portuguesas | F07,F09
+P2-C04 | 1663 | Ataque corsario a Campeche | F07,F09
+P2-C05 | 1682 | Acaparamiento del pan y las tortillas en Puebla | F07,F09
+P2-C06 | 1683 | Saqueo de Veracruz por Lorencillo | F07,F09
+P2-C07 | 1692 | Saqueos asociados al motín de la capital | F07,F09
+P2-C08 | 1713-1750 | Contrabando ligado al asiento comercial británico | F07,F09
+P2-C09 | 1760s | Fraudes e ilícitos fiscales bajo estancos borbónicos | F07,F09
+P2-C10 | 1780s | Mercados clandestinos de tabaco y aguardiente | F07,F09
+P2-D01 | 1606-1611 | Actividad eruptiva del Volcán de Colima | F11,F13
+P2-D02 | 1615-1616 | Brotes epidémicos en el Valle de México | F11,F13
+P2-D03 | 1629-1634 | Gran inundación de la capital | F11,F13
+P2-D04 | 1711 | Sismo con daños en la capital virreinal | F48,F11,F13
+P2-D05 | 1667-1668 | Crisis epidémicas coloniales | F11,F13
+P2-D06 | 1682 | Sequía y escasez de pan en Puebla | F11,F13
+P2-D07 | 1692 | Crisis de abasto y motín | F11,F13
+P2-D08 | 1737 | Epidemia de matlazáhuatl | F11,F13
+P2-D09 | 1785-1786 | Año del hambre por anomalías climáticas | F11,F13
+P2-D10 | 1787 | Gran terremoto y tsunami en costa del Pacífico | F22,F11,F13
+P2-M01 | 1615-1616 | Epidemias y hambruna en el Valle de México | F10,F14
+P2-M02 | 1628 | Formalización del Tribunal del Protomedicato novohispano | F43,F10,F14
+P2-M03 | 1633-1634 | Brote epidémico de la capital | F10,F14
+P2-M04 | 1667-1668 | Epidemias regionales documentadas | F10,F14
+P2-M05 | 1714 | Episodio de fiebres de alta mortalidad | F10,F14
+P2-M06 | 1736-1739 | Gran epidemia de matlazáhuatl | F10,F14
+P2-M07 | 1761-1764 | Brotes de tifo y viruela | F15,F10,F14
+P2-M08 | 1779-1780 | Epidemias de viruela y sarampión | F15,F10,F14
+P2-M09 | 1804 | Expedición Balmis y vacunación antivariólica | F47,F10,F14
+P2-M10 | 1808 | Debates ilustrados sobre higiene y salud pública | F19,F10,F14
+P3-H01 | 1810 | Grito de Dolores e inicio de la insurgencia | F16,F12
+P3-H02 | 1810 | Toma de la Alhóndiga de Granaditas | F16,F12
+P3-H03 | 1811 | Captura y ejecución de Hidalgo | F16,F12
+P3-H04 | 1812 | Sitio de Cuautla | F19,F16,F12
+P3-H05 | 1813 | Congreso de Chilpancingo y Sentimientos de la Nación | F16,F12
+P3-H06 | 1815 | Ejecución de Morelos | F16,F12
+P3-H07 | 1821 | Plan de Iguala y consumación de Independencia | F35,F16,F12
+P3-H08 | 1824 | Constitución Federal de los Estados Unidos Mexicanos | F16,F12
+P3-H09 | 1836 | Independencia de Texas y batalla de San Jacinto | F16,F12
+P3-H10 | 1846-1848 | Guerra México-Estados Unidos y Tratado de Guadalupe Hidalgo | F16,F12
+P3-P01 | 1810 | Conspiración de Querétaro descubierta | F17,F12
+P3-P02 | 1812 | Constitución de Cádiz en Nueva España | F17,F12
+P3-P03 | 1813 | Sentimientos de la Nación | F17,F12
+P3-P04 | 1814 | Constitución de Apatzingán | F17,F12
+P3-P05 | 1822 | Coronación y crisis del Imperio de Iturbide | F17,F12
+P3-P06 | 1824 | Presidencia de Guadalupe Victoria | F17,F12
+P3-P07 | 1835-1836 | Siete Leyes y centralismo | F17,F12
+P3-P08 | 1841 | Bases de Tacubaya y nuevo reacomodo político | F17,F12
+P3-P09 | 1847 | Acta Constitutiva y de Reformas | F18,F17,F12
+P3-P10 | 1854 | Plan de Ayutla contra Santa Anna | F12,F17,F18
+P3-S01 | 1810 | Movilización popular masiva en la insurgencia | F20,F16
+P3-S02 | 1810 | Decreto insurgente contra la esclavitud | F20,F16
+P3-S03 | 1812 | Hambre y desplazamiento durante el sitio de Cuautla | F19,F20,F16
+P3-S04 | 1813 | Migración hacia ciudades durante la guerra | F19,F20,F16
+P3-S05 | 1821 | Construcción de símbolos de nación independiente | F20,F16
+P3-S06 | 1829 | Abolición de la esclavitud bajo Vicente Guerrero | F20,F16
+P3-S07 | 1833 | Impacto comunitario de la primera gran epidemia de cólera | F14,F20,F16
+P3-S08 | 1838 | Resistencia popular durante la Guerra de los Pasteles | F20,F16
+P3-S09 | 1847 | Defensa civil de la capital ante la invasión estadounidense | F20,F16
+P3-S10 | 1850s | Comunidades rurales frente a deudas y despojos | F18,F20,F16
+P3-C01 | 1810 | Saqueos durante la campaña de Hidalgo | F21,F12
+P3-C02 | 1811-1815 | Bandas armadas en caminos de guerra | F21,F12
+P3-C03 | 1812 | Apropiación forzosa de víveres durante el sitio de Cuautla | F19,F21,F12
+P3-C04 | 1815-1821 | Contrabando de armas y abastecimientos insurgentes | F21,F12
+P3-C05 | 1820s | Bandolerismo en rutas comerciales posindependencia | F21,F12
+P3-C06 | 1820s-1830s | Comercio clandestino en puertos y fronteras | F21,F12
+P3-C07 | 1830s | Gavillas rurales y secuestros por rescate | F21,F12
+P3-C08 | 1838 | Comercio evasivo durante bloqueo francés | F21,F12
+P3-C09 | 1846-1848 | Saqueos y robos en áreas ocupadas por la guerra | F21,F12
+P3-C10 | 1850s | Bandolerismo y captura política de gavillas | F21,F12,F18
+P3-D01 | 1810 | Hambre y desplazamientos de la guerra insurgente | F19,F14
+P3-D02 | 1812 | Catástrofe humanitaria del sitio de Cuautla | F19,F14
+P3-D03 | 1813 | Epidemia de fiebres misteriosas | F19,F14
+P3-D04 | 1818 | Actividad histórica del Volcán de Colima | F11,F19,F14
+P3-D05 | 1826 | Brote de influenza extendido | F19,F14
+P3-D06 | 1833 | Primera gran pandemia de cólera en México | F14,F19,F18
+P3-D07 | 1836 | Nueva epidemia de influenza | F19,F14
+P3-D08 | 1846-1848 | Emergencia sanitaria y desplazamientos por la invasión | F19,F14
+P3-D09 | 1850 | Segunda gran oleada de cólera | F14,F19
+P3-D10 | 1854 | Repunte epidémico de cólera | F14,F19
+P3-M01 | 1812 | Enfermedad por hambre y hacinamiento en Cuautla | F19,F14
+P3-M02 | 1813 | Fiebres misteriosas posiblemente tifus | F19,F14
+P3-M03 | 1826 | Epidemia de influenza | F14,F19
+P3-M04 | 1833 | Epidemia de cólera morbus | F14,F19
+P3-M05 | 1833 | Reformas liberales sobre enseñanza médica | F18,F14,F19
+P3-M06 | 1836 | Nueva oleada de influenza | F14,F19
+P3-M07 | 1847 | Hospital de San Pablo durante la invasión | F14,F19
+P3-M08 | 1850 | Segunda epidemia de cólera | F14,F19
+P3-M09 | 1853 | Crisis de recursos hospitalarios en el santannismo | F14,F19
+P3-M10 | 1854 | Rebrotes de cólera | F14,F19
+P4-H01 | 1855 | Triunfo de la Revolución de Ayutla | F24,F12,F18
+P4-H02 | 1857 | Promulgación de la Constitución liberal | F18,F12
+P4-H03 | 1858-1861 | Guerra de Reforma | F18,F12
+P4-H04 | 1862 | Batalla del 5 de mayo | F12,F18
+P4-H05 | 1864 | Llegada de Maximiliano y Carlota | F18,F12
+P4-H06 | 1867 | Fusilamiento de Maximiliano y restauración republicana | F12,F18
+P4-H07 | 1876 | Plan de Tuxtepec y llegada de Porfirio Díaz | F12,F18
+P4-H08 | 1884 | Comienzo del prolongado gobierno de Díaz | F12,F18
+P4-H09 | 1906 | Huelga de Cananea | F24,F12,F18
+P4-H10 | 1907 | Huelga y represión de Río Blanco | F24,F12,F18
+P4-P01 | 1855 | Ley Juárez | F17,F18
+P4-P02 | 1856 | Ley Lerdo de desamortización | F18,F17
+P4-P03 | 1857 | Constitución federal liberal | F17,F18
+P4-P04 | 1857 | Plan de Tacubaya | F18,F17
+P4-P05 | 1859 | Nacionalización de bienes eclesiásticos | F18,F17
+P4-P06 | 1861 | Suspensión del pago de deuda externa | F17,F18
+P4-P07 | 1864 | Establecimiento del Segundo Imperio | F17,F18
+P4-P08 | 1867 | Restablecimiento del gobierno republicano | F17,F18
+P4-P09 | 1876 | Plan de Tuxtepec | F17,F18
+P4-P10 | 1908 | Entrevista Díaz-Creelman | F17,F18
+P4-S01 | 1856 | Desamortización y transformación de tierras comunales | F24,F12
+P4-S02 | 1857 | Debate público sobre educación y libertades | F12,F24
+P4-S03 | 1862 | Movilización civil en defensa de Puebla | F12,F24
+P4-S04 | 1867 | Reforma educativa de Gabino Barreda | F18,F12,F24
+P4-S05 | 1870s | Expansión de haciendas y conflictos agrarios | F24,F12
+P4-S06 | 1880s | Expansión ferroviaria y migración de trabajadores | F12,F24
+P4-S07 | 1890s | Campañas contra pueblos yaquis | F12,F24
+P4-S08 | 1900 | Circulación del periódico Regeneración | F12,F24
+P4-S09 | 1906 | Huelga de Cananea | F24,F12
+P4-S10 | 1907 | Huelga textil de Río Blanco | F24,F12
+P4-C01 | 1858-1861 | Gavillas armadas en la Guerra de Reforma | F21,F12,F18
+P4-C02 | 1863 | Bandas conservadoras y bandolerismo político | F21,F12
+P4-C03 | 1860s | Ataques a caminos y diligencias | F21,F12
+P4-C04 | 1870s | Pervivencia del bandolerismo rural | F21,F12
+P4-C05 | 1880s | Represión de gavillas por los rurales | F21,F12
+P4-C06 | 1880s-1890s | Mitos del bandido social Chucho el Roto | F48,F21,F12
+P4-C07 | 1890s | Contrabando fronterizo con expansión ferroviaria | F21,F12
+P4-C08 | 1900s | Tráfico ilícito y controles de mercancías en puertos | F21,F12
+P4-C09 | 1906 | Violencia organizada contra huelguistas de Cananea | F24,F21,F12
+P4-C10 | 1907 | Intervención armada en el conflicto de Río Blanco | F24,F21,F12
+P4-D01 | 1859 | Crisis humanitaria por la Guerra de Reforma | F18,F11,F22
+P4-D02 | 1864 | Actividad registrada del Pico de Orizaba | F11,F22
+P4-D03 | 1869 | Episodio eruptivo del Volcán de Colima | F11,F22
+P4-D04 | 1872 | Actividad volcánica en Colima | F11,F22
+P4-D05 | 1870-1875 | Erupción del Ceboruco | F11,F22
+P4-D06 | 1887 | Gran terremoto de Sonora | F22,F11
+P4-D07 | 1890 | Gran epidemia de influenza | F11,F22
+P4-D08 | 1902-1903 | Epidemia de peste bubónica en Mazatlán | F14,F11,F22
+P4-D09 | 1907 | Sismos de Guerrero de principios del siglo XX | F22,F11
+P4-D10 | 1908-1909 | Actividad repetida del Volcán de Colima | F11,F22
+P4-M01 | 1857 | Reorganización sanitaria en contexto de Reforma | F18,F14,F23
+P4-M02 | 1860s | Hospitales y medicina de guerra | F18,F14,F23
+P4-M03 | 1870s | Campañas urbanas de saneamiento | F14,F23
+P4-M04 | 1880s | Consolidación de medicina higienista | F14,F23
+P4-M05 | 1882-1883 | Brotes tardíos de cólera en sureste | F14,F23
+P4-M06 | 1890 | Pandemia de influenza | F14,F23
+P4-M07 | 1902-1903 | Control de peste bubónica en Mazatlán | F14,F23
+P4-M08 | 1905 | Inicio de campaña sanitaria contra la sífilis | F14,F23
+P4-M09 | 1906 | Inauguración del Hospital General de México | F18,F14,F23
+P4-M10 | 1908 | Ampliación de atribuciones federales en salubridad | F24,F14,F23
+P5-H01 | 1910 | Plan de San Luis y levantamiento maderista | F24,F25
+P5-H02 | 1913 | Decena Trágica y asesinato de Madero | F24,F25
+P5-H03 | 1914 | Ocupación estadounidense de Veracruz | F24,F25
+P5-H04 | 1917 | Promulgación de la Constitución mexicana | F24,F25
+P5-H05 | 1920 | Plan de Agua Prieta y caída de Carranza | F48,F24,F25
+P5-H06 | 1926-1929 | Guerra Cristera | F24,F25
+P5-H07 | 1938 | Expropiación petrolera | F24,F25
+P5-H08 | 1942 | Entrada de México a la Segunda Guerra Mundial | F24,F25
+P5-H09 | 1968 | Movimiento estudiantil y masacre de Tlatelolco | F33,F24,F25
+P5-H10 | 1982 | Crisis de deuda y nacionalización bancaria | F24,F25
+P5-P01 | 1911 | Renuncia de Porfirio Díaz | F24,F25
+P5-P02 | 1913 | Golpe de Estado de Huerta | F24,F25
+P5-P03 | 1914 | Convención Revolucionaria de Aguascalientes | F24,F25
+P5-P04 | 1917 | Nueva Constitución y federalismo social | F24,F25
+P5-P05 | 1929 | Fundación del Partido Nacional Revolucionario | F24,F25
+P5-P06 | 1934-1940 | Reformas cardenistas y reparto agrario | F24,F25
+P5-P07 | 1946 | Fundación del Partido Revolucionario Institucional | F24,F25
+P5-P08 | 1968 | Represión estatal del movimiento estudiantil | F33,F24,F25
+P5-P09 | 1977 | Reforma política y apertura electoral | F29,F24,F25
+P5-P10 | 1982 | Nacionalización de la banca | F24,F25
+P5-S01 | 1910 | Movilización de campesinos y obreros en la Revolución | F24,F25,F26
+P5-S02 | 1911 | Plan de Ayala y movimiento zapatista | F25,F26
+P5-S03 | 1921 | Creación de la SEP y alfabetización | F25,F26
+P5-S04 | 1926-1929 | Movilización social cristera | F25,F26
+P5-S05 | 1934-1940 | Reparto agrario y organización ejidal | F24,F25,F26
+P5-S06 | 1942 | Programa Bracero y migración laboral | F25,F26
+P5-S07 | 1958-1959 | Movimiento ferrocarrilero | F25,F26
+P5-S08 | 1968 | Movimiento estudiantil mexicano | F25,F26
+P5-S09 | 1971 | Halconazo del Jueves de Corpus | F50,F25,F26
+P5-S10 | 1982 | Impacto familiar de devaluación y crisis de deuda | F25,F26
+P5-C01 | 1910s-1920s | Primeras redes de amapola y opio en noroeste | F27,F28
+P5-C02 | 1920s | Regulación prohibicionista y mercados de opio | F27,F28
+P5-C03 | 1930s | Redes de producción de amapola en Badiraguato | F27,F28
+P5-C04 | 1940s | Expansión del comercio clandestino de goma de opio | F27,F28
+P5-C05 | 1950s | Profesionalización de redes de distribución de drogas | F27,F28
+P5-C06 | 1960s | Consolidación de rutas de marihuana y amapola | F27,F28
+P5-C07 | 1970s | Operativos contra cultivos de estupefacientes | F27,F28
+P5-C08 | 1975-1977 | Operación Cóndor antidrogas | F27,F28
+P5-C09 | Finales de 1970s | Articulación de redes luego llamadas Cártel de Guadalajara | F27,F28
+P5-C10 | 1980-1982 | Tráfico de cocaína y redes transnacionales emergentes | F27,F28
+P5-D01 | 1912 | Terremoto de Acambay | F22,F11
+P5-D02 | 1918-1919 | Pandemia de influenza | F22,F11
+P5-D03 | 1920 | Terremoto y deslaves en la región de Xalapa | F22,F11
+P5-D04 | 1932 | Gran terremoto de Jalisco | F22,F11
+P5-D05 | 1943 | Nacimiento del volcán Paricutín | F11,F22
+P5-D06 | 1955 | Huracán Janet | F44,F22,F11
+P5-D07 | 1957 | Terremoto del Ángel | F22,F11
+P5-D08 | 1973 | Terremoto de Orizaba | F22,F11
+P5-D09 | 1976 | Inundaciones y lluvias severas en distintas regiones | F22,F11
+P5-D10 | 1982 | Erupción del volcán Chichón | F11,F22
+P5-M01 | 1918 | Pandemia de influenza de 1918 | F24,F14,F23
+P5-M02 | 1921 | Fundación del Instituto de Higiene | F24,F14,F23
+P5-M03 | 1922 | Escuela de Salubridad de México | F14,F23
+P5-M04 | 1923 | Registro del último caso de fiebre amarilla en México | F14,F23
+P5-M05 | 1934 | Inicio de campaña antituberculosa | F14,F23
+P5-M06 | 1943 | Creación del Instituto Mexicano del Seguro Social | F14,F23
+P5-M07 | 1943 | Creación de la Secretaría de Salubridad y Asistencia | F14,F23
+P5-M08 | 1950s | Introducción de vacunación antipoliomielítica | F23,F14
+P5-M09 | 1973 | Creación del Programa Nacional de Inmunizaciones | F40,F14,F23
+P5-M10 | 1981-1982 | Primeros antecedentes de vigilancia del VIH/sida | F14,F23
+P6-H01 | 1985 | Terremotos de septiembre y organización ciudadana | F22,F30,F31
+P6-H02 | 1988 | Elección presidencial controvertida | F30,F31
+P6-H03 | 1994 | Entrada en vigor del TLCAN y alzamiento zapatista | F30,F31
+P6-H04 | 1994 | Crisis del peso y asesinato de Luis Donaldo Colosio | F30,F31
+P6-H05 | 2000 | Primera alternancia presidencial tras dominio del PRI | F30,F31
+P6-H06 | 2006 | Despliegue federal contra cárteles y escalada de violencia | F30,F31
+P6-H07 | 2018 | Nueva alternancia y victoria de López Obrador | F30,F31
+P6-H08 | 2020 | Comienzo de emergencia de COVID-19 en México | F23,F30,F31
+P6-H09 | 2024 | Elección de la primera presidenta de México | F30,F31
+P6-H10 | 2025 | Primer proceso electoral federal del Poder Judicial | F32,F30,F31
+P6-P01 | 1988 | Crisis de confianza en la elección presidencial | F29,F31
+P6-P02 | 1989 | Fundación del Partido de la Revolución Democrática | F24,F29,F31
+P6-P03 | 1990 | Creación del Instituto Federal Electoral | F29,F31
+P6-P04 | 1996 | Reforma electoral y autonomía reforzada del IFE | F29,F31
+P6-P05 | 1997 | El PRI pierde la mayoría absoluta en Diputados | F29,F31
+P6-P06 | 2000 | Elección de Vicente Fox | F29,F31
+P6-P07 | 2006 | Elección presidencial cerrada y disputa postelectoral | F29,F31
+P6-P08 | 2014 | Reforma que transforma IFE en INE | F29,F31
+P6-P09 | 2024 | Elección de Claudia Sheinbaum | F31,F29
+P6-P10 | 2025 | Elección judicial federal y transición institucional | F32,F29,F31
+P6-S01 | 1985 | Brigadas vecinales tras el terremoto | F22,F26,F30
+P6-S02 | 1994 | Reivindicaciones indígenas del EZLN | F26,F30
+P6-S03 | 1997 | Masacre de Acteal y desplazamientos | F26,F30
+P6-S04 | 2001 | Marcha del Color de la Tierra | F26,F30
+P6-S05 | 2006 | Protestas magisteriales y Asamblea Popular de Oaxaca | F26,F30
+P6-S06 | 2011 | Movimiento por la Paz con Justicia y Dignidad | F26,F30
+P6-S07 | 2012 | Movimiento estudiantil #YoSoy132 | F26,F30
+P6-S08 | 2014 | Movilización por los 43 normalistas de Ayotzinapa | F35,F26,F30
+P6-S09 | 2019-2024 | Movilizaciones feministas contra violencia de género | F26,F30
+P6-S10 | 2020-2021 | Cierre de escuelas y trabajo durante COVID-19 | F26,F30
+P6-C01 | 1985 | Secuestro y asesinato del agente Enrique Camarena | F39,F28
+P6-C02 | 1989 | Detención de Miguel Ángel Félix Gallardo | F27,F39,F28
+P6-C03 | 1993 | Asesinato del cardenal Juan Jesús Posadas Ocampo | F39,F28
+P6-C04 | 1997 | Muerte de Amado Carrillo Fuentes | F39,F28
+P6-C05 | 2006 | Escalada de operativos federales y disputas criminales | F39,F28
+P6-C06 | 2008-2011 | Violencia extrema en Ciudad Juárez | F39,F28
+P6-C07 | 2010 | Masacre de migrantes en San Fernando | F34,F39,F28
+P6-C08 | 2014 | Desaparición de 43 normalistas de Ayotzinapa | F35,F39,F28
+P6-C09 | 2019 | Operativo fallido de captura de Ovidio Guzmán (“Culiacanazo”) | F27,F39,F28
+P6-C10 | 2024 | Detención en Estados Unidos de Ismael Zambada y conflicto en Sinaloa | F27,F39,F28
+P6-D01 | 1985 | Terremoto del 19 de septiembre y réplica del día 20 | F22,F13,F44
+P6-D02 | 1988 | Huracán Gilberto | F44,F13
+P6-D03 | 1997 | Huracán Paulina | F44,F13
+P6-D04 | 1999 | Terremoto de Tehuacán y Puebla | F22,F13,F44
+P6-D05 | 2005 | Huracán Wilma | F44,F13
+P6-D06 | 2007 | Inundaciones extraordinarias de Tabasco | F13,F44
+P6-D07 | 2010 | Huracán Alex e inundaciones | F44,F13
+P6-D08 | 2017 | Sismo del 7 de septiembre en el sureste | F22,F13,F44
+P6-D09 | 2017 | Sismo del 19 de septiembre | F22,F13,F44
+P6-D10 | 2023 | Huracán Otis y devastación de Acapulco | F37,F13,F44
+P6-M01 | 1983 | Identificación de primeros casos de sida en México | F23,F38
+P6-M02 | 1991 | Reaparición del cólera en México | F14,F23,F38
+P6-M03 | 1991 | Puesta en marcha del Programa de Vacunación Universal | F23,F38
+P6-M04 | 2003 | Creación del Seguro Popular | F23,F38
+P6-M05 | 2009 | Pandemia de influenza A(H1N1) | F23,F38
+P6-M06 | 2015-2016 | Vigilancia del virus del Zika | F23,F38
+P6-M07 | 2020 | Emergencia sanitaria de COVID-19 | F23,F38
+P6-M08 | 2020-2021 | Inicio y expansión de vacunación contra COVID-19 | F23,F38
+P6-M09 | 2022-2024 | Transición institucional hacia IMSS-Bienestar | F41,F23,F38
+P6-M10 | 2024-2025 | Enfermedades crónicas entre principales causas de muerte | F23,F38

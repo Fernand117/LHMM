@@ -55,6 +55,7 @@ export default function MexicoMap({ events, selectedState, onSelectState }: Prop
     const groups = new Map<string, { coordinates: [number, number]; count: number }>()
     events.forEach((event) => {
       const state = event.states[0]
+      if (!state || !event.coordinates) return
       const existing = groups.get(state)
       if (existing) existing.count++
       else groups.set(state, { coordinates: event.coordinates, count: 1 })
@@ -74,7 +75,7 @@ export default function MexicoMap({ events, selectedState, onSelectState }: Prop
         <h3>Cada lugar tiene<br />una historia.</h3>
         <p>Selecciona un estado. Sigue el hilo.</p>
       </div>
-      <div className="map-live"><span className="live-dot" /> {events.length} historias por descubrir</div>
+      <div className="map-live"><span className="live-dot" /> {events.length} historias · {events.filter((event) => !event.states.length).length} sin ubicación estatal</div>
 
       {error ? <div className="map-message"><Compass size={32} /><p>No pudimos cargar el mapa.</p><span>Puedes seguir explorando con el selector de estados.</span></div> : !geojson ? <div className="map-message" role="status"><Compass className="loading-compass" size={32} /><p>Preparando el territorio…</p></div> : (
         <svg
@@ -112,7 +113,7 @@ export default function MexicoMap({ events, selectedState, onSelectState }: Prop
               const id = feature.properties.id
               const count = counts[id] ?? 0
               const selected = selectedState === id
-              const fill = selected ? '#d6edb2' : count >= 5 ? '#8c9b72' : count >= 3 ? '#6c805e' : count > 0 ? '#52674e' : '#303e35'
+               const fill = selected ? '#d6edb2' : count >= 40 ? '#8c9b72' : count >= 10 ? '#6c805e' : count > 0 ? '#52674e' : '#303e35'
               return <path key={id} d={path!(feature) ?? ''} fill={fill} className={`state-path ${selected ? 'is-selected' : ''} ${hovered === id ? 'is-hovered' : ''}`} stroke={selected ? '#e0f5bb' : '#82927a'} strokeOpacity={selected ? 1 : 0.38} strokeWidth={selected ? 1.5 : 0.7} vectorEffect="non-scaling-stroke" role="button" tabIndex={0} aria-label={`${stateById[id]}, ${count} acontecimientos`} aria-pressed={selected} onClick={() => selectState(id)} onKeyDown={(event) => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); drag.current = null; selectState(id) } }} onMouseEnter={() => setHovered(id)} onMouseLeave={() => setHovered('')} onFocus={() => setHovered(id)} onBlur={() => setHovered('')}><title>{stateById[id]} · {count} acontecimientos</title></path>
             })}
             {markers.map(([state, marker]) => {
@@ -124,9 +125,9 @@ export default function MexicoMap({ events, selectedState, onSelectState }: Prop
               const count = counts[state] ?? marker.count
               return <g key={state} className={`map-pin-group ${dimmed ? 'is-dimmed' : ''}`} transform={`translate(${x},${y})`}>
                 <g className="map-marker" role="button" tabIndex={0} aria-label={`Explorar ${stateById[state]}, ${count} historias`} onClick={() => selectState(state)} onKeyDown={(event) => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); drag.current = null; selectState(state) } }} onMouseEnter={() => setHovered(state)} onMouseLeave={() => setHovered('')} onFocus={() => setHovered(state)} onBlur={() => setHovered('')}>
-                <circle r="18" fill="#d2edaa" opacity=".10" /><circle r="10" fill="#d2edaa" opacity=".12" />
-                <circle r={count > 1 ? 7 : 4} fill="#d6efb6" stroke="#202b23" strokeWidth="2" />
-                {count > 1 && <text y="2.5" textAnchor="middle" fill="#23321f" fontSize="7" fontWeight="800">{count}</text>}
+                  <circle r="18" fill="#d2edaa" opacity=".10" /><circle r="10" fill="#d2edaa" opacity=".12" />
+                  <circle r={count > 1 ? 7 : 4} fill="#d6efb6" stroke="#202b23" strokeWidth="2" />
+                  {count > 1 && <text y="2.5" textAnchor="middle" fill="#23321f" fontSize="7" fontWeight="800">{count}</text>}
                 </g>
                 {label && <text x={label.dx} y={label.dy} textAnchor={label.anchor ?? 'start'} className="state-label" aria-hidden="true">{state === 'MX-CMX' ? 'CDMX' : stateById[state]}</text>}
               </g>

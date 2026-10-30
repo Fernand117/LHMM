@@ -1,11 +1,13 @@
 import type { CategoryId, Person } from './types'
+import { additionalPeople } from './people-extra'
 
 export const categories: { id: CategoryId; name: string; shortName: string; color: string }[] = [
   { id: 'territorio', name: 'Historia y territorio', shortName: 'Historia', color: '#c6ad7f' },
   { id: 'politica', name: 'Política y poder', shortName: 'Política', color: '#aa9bd0' },
   { id: 'sociedad', name: 'Sociedad y resistencia', shortName: 'Sociedad', color: '#91bba6' },
-  { id: 'seguridad', name: 'Crimen organizado', shortName: 'Crimen organizado', color: '#d38b77' },
-  { id: 'desastres', name: 'Desastres y salud', shortName: 'Desastres y salud', color: '#d0b868' },
+  { id: 'seguridad', name: 'Violencia y redes ilícitas', shortName: 'Violencia y redes', color: '#d38b77' },
+  { id: 'desastres', name: 'Desastres y riesgos', shortName: 'Desastres', color: '#d0b868' },
+  { id: 'salud', name: 'Salud y cuidados', shortName: 'Salud', color: '#85b9bd' },
 ]
 
 export const categoryById = Object.fromEntries(categories.map((category) => [category.id, category]))
@@ -23,7 +25,7 @@ export const states = [
 
 export const stateById = Object.fromEntries(states.map((state) => [state.id, state.name]))
 
-export const people: Person[] = [
+const originalPeople: Person[] = [
   { id: 'cortes', name: 'Hernán Cortés', role: 'Conquistador', description: 'Encabezó la expedición española de 1519 y participó en la coalición que sitió Tenochtitlan.' },
   { id: 'malintzin', name: 'Malintzin', role: 'Intérprete y mediadora', description: 'Figura central de la comunicación y mediación entre la expedición de Cortés y distintos pueblos indígenas.' },
   { id: 'cuauhtemoc', name: 'Cuauhtémoc', role: 'Tlatoani de Tenochtitlan', description: 'Encabezó la resistencia mexica durante el sitio de 1521 y fue capturado al caer la ciudad.' },
@@ -40,4 +42,36 @@ export const people: Person[] = [
   { id: 'mencho-persona', name: 'Nemesio Oseguera Cervantes', role: 'Dirigente del CJNG', description: 'Conocido como “El Mencho”. Reuters y EL PAÍS reportaron su muerte en el operativo de Tapalpa de febrero de 2026.' },
 ]
 
+const originalPortraits: Record<string, { page?: string; aliases?: string[]; representation?: boolean }> = {
+  cortes: { page: 'Hernán Cortés', aliases: ['Cortés'], representation: true },
+  malintzin: { page: 'La Malinche', representation: true },
+  cuauhtemoc: { page: 'Cuauhtémoc', representation: true },
+  hidalgo: { page: 'Miguel Hidalgo y Costilla', aliases: ['Hidalgo', 'Miguel Hidalgo'], representation: true },
+  madero: { page: 'Francisco I. Madero', aliases: ['Madero', 'Francisco Madero'] },
+  zapata: { page: 'Emiliano Zapata', aliases: ['Zapata'] },
+  'felix-gallardo': { page: 'Miguel Ángel Félix Gallardo' },
+  kiki: { page: 'Kiki Camarena', aliases: ['Enrique Camarena'] },
+  salinas: { page: 'Carlos Salinas de Gortari', aliases: ['Salinas', 'Carlos Salinas'] },
+  cardenas: { page: 'Cuauhtémoc Cárdenas', aliases: ['Cárdenas'] },
+  gargallo: {},
+  'colosio-persona': { page: 'Luis Donaldo Colosio', aliases: ['Luis Donaldo Colosio'] },
+  calderon: { page: 'Felipe Calderón' },
+  'mencho-persona': { page: 'Nemesio Oseguera Cervantes' },
+}
+
+export const people: Person[] = [
+  ...originalPeople.map((person) => ({ ...person, aliases: originalPortraits[person.id].aliases, portraitPage: originalPortraits[person.id].page, portraitNote: originalPortraits[person.id].representation ? `Representación posterior de ${person.name}; no es una fotografía del personaje ni un registro de los hechos. Consulta técnica, fecha y autoría en el archivo original.` : `Imagen de ${person.name}. No representa necesariamente el periodo de la ficha; consulta la fecha y procedencia en el archivo original.` })),
+  ...additionalPeople,
+]
+
 export const personById = Object.fromEntries(people.map((person) => [person.id, person])) as Record<string, Person>
+
+const normalized = (value: string) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('es-MX').trim()
+
+export function mentionedPeople(text: string) {
+  const segments = text.split(';').map(normalized)
+  return people.filter((person) => [person.name, ...(person.aliases ?? [])].some((name) => {
+    const alias = normalized(name)
+    return segments.some((segment) => alias.includes(' ') ? segment.includes(alias) : segment === alias || segment.startsWith(`${alias} y `))
+  })).map((person) => person.id)
+}

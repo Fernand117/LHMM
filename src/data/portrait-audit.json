@@ -1,0 +1,698 @@
+[
+  {
+    "id": "cortes",
+    "status": "cached"
+  },
+  {
+    "id": "malintzin",
+    "status": "cached"
+  },
+  {
+    "id": "cuauhtemoc",
+    "status": "cached"
+  },
+  {
+    "id": "madero",
+    "status": "cached"
+  },
+  {
+    "id": "zapata",
+    "status": "cached"
+  },
+  {
+    "id": "felix-gallardo",
+    "status": "excluido",
+    "reason": "La atribución a una agencia estadounidense no está sustentada por la fuente de prensa indicada; derechos pendientes de revisión."
+  },
+  {
+    "id": "kiki",
+    "status": "cached"
+  },
+  {
+    "id": "salinas",
+    "status": "cached"
+  },
+  {
+    "id": "cardenas",
+    "status": "cached"
+  },
+  {
+    "id": "gargallo",
+    "status": "sin-imagen",
+    "reason": "Sin un retrato identificado con procedencia y derechos suficientes; no se sustituye por otra persona."
+  },
+  {
+    "id": "colosio-persona",
+    "status": "excluido",
+    "reason": "El recorte de una fotografía de campaña no permite atribuir con seguridad la identidad de la persona mostrada."
+  },
+  {
+    "id": "calderon",
+    "status": "cached"
+  },
+  {
+    "id": "moctezuma",
+    "status": "cached"
+  },
+  {
+    "id": "alvarado",
+    "status": "cached"
+  },
+  {
+    "id": "antonio-mendoza",
+    "status": "cached"
+  },
+  {
+    "id": "carlos-v",
+    "status": "cached"
+  },
+  {
+    "id": "moya-contreras",
+    "status": "cached"
+  },
+  {
+    "id": "jeronimo-aguilar",
+    "status": "excluido",
+    "reason": "La imagen es una escena de varios personajes; no se recorta como supuesto retrato identificado."
+  },
+  {
+    "id": "john-hawkins",
+    "status": "cached"
+  },
+  {
+    "id": "francis-drake",
+    "status": "cached"
+  },
+  {
+    "id": "francisco-hernandez",
+    "status": "excluido",
+    "reason": "La imagen encontrada es una portada de libro, no un retrato de Francisco Hernández."
+  },
+  {
+    "id": "sahagun",
+    "status": "cached"
+  },
+  {
+    "id": "yanga",
+    "status": "cached"
+  },
+  {
+    "id": "rodrigo-pacheco",
+    "status": "cached"
+  },
+  {
+    "id": "lorencillo",
+    "status": "cached"
+  },
+  {
+    "id": "van-hoorn",
+    "status": "cached"
+  },
+  {
+    "id": "carlos-iii",
+    "status": "cached"
+  },
+  {
+    "id": "iturrigaray",
+    "status": "cached"
+  },
+  {
+    "id": "felipe-iii",
+    "status": "cached"
+  },
+  {
+    "id": "virrey-gelves",
+    "status": "cached"
+  },
+  {
+    "id": "palafox",
+    "status": "cached"
+  },
+  {
+    "id": "conde-paredes",
+    "status": "cached"
+  },
+  {
+    "id": "felipe-v",
+    "status": "cached"
+  },
+  {
+    "id": "galvez",
+    "status": "cached"
+  },
+  {
+    "id": "primo-verdad",
+    "status": "cached"
+  },
+  {
+    "id": "revillagigedo",
+    "status": "cached"
+  },
+  {
+    "id": "balmis",
+    "status": "cached"
+  },
+  {
+    "id": "allende",
+    "status": "cached"
+  },
+  {
+    "id": "josefa-ortiz",
+    "status": "cached"
+  },
+  {
+    "id": "riano",
+    "status": "cached"
+  },
+  {
+    "id": "morelos",
+    "status": "cached"
+  },
+  {
+    "id": "calleja",
+    "status": "cached"
+  },
+  {
+    "id": "iturbide",
+    "status": "cached"
+  },
+  {
+    "id": "guerrero",
+    "status": "cached"
+  },
+  {
+    "id": "victoria",
+    "status": "cached"
+  },
+  {
+    "id": "santa-anna",
+    "status": "cached"
+  },
+  {
+    "id": "sam-houston",
+    "status": "cached"
+  },
+  {
+    "id": "mariano-otero",
+    "status": "cached"
+  },
+  {
+    "id": "juarez",
+    "status": "cached"
+  },
+  {
+    "id": "miramon",
+    "status": "cached"
+  },
+  {
+    "id": "zaragoza",
+    "status": "cached"
+  },
+  {
+    "id": "lorencez",
+    "status": "cached"
+  },
+  {
+    "id": "maximiliano",
+    "status": "cached"
+  },
+  {
+    "id": "tomas-mejia",
+    "status": "cached"
+  },
+  {
+    "id": "porfirio-diaz",
+    "status": "cached"
+  },
+  {
+    "id": "miguel-lerdo",
+    "status": "cached"
+  },
+  {
+    "id": "napoleon-iii",
+    "status": "cached"
+  },
+  {
+    "id": "creelman",
+    "status": "cached"
+  },
+  {
+    "id": "barreda",
+    "status": "cached"
+  },
+  {
+    "id": "flores-magon",
+    "status": "cached"
+  },
+  {
+    "id": "antonio-rojas",
+    "status": "sin-imagen",
+    "reason": "Sin un retrato identificado con procedencia y derechos suficientes; no se sustituye por otra persona."
+  },
+  {
+    "id": "manuel-lozada",
+    "status": "cached"
+  },
+  {
+    "id": "liceaga",
+    "status": "cached"
+  },
+  {
+    "id": "felix-diaz",
+    "status": "cached"
+  },
+  {
+    "id": "woodrow-wilson",
+    "status": "cached"
+  },
+  {
+    "id": "carranza",
+    "status": "cached"
+  },
+  {
+    "id": "obregon",
+    "status": "cached"
+  },
+  {
+    "id": "calles",
+    "status": "cached"
+  },
+  {
+    "id": "reyes-heroles",
+    "status": "cached"
+  },
+  {
+    "id": "villa",
+    "status": "cached"
+  },
+  {
+    "id": "vallejo",
+    "status": "cached"
+  },
+  {
+    "id": "campa",
+    "status": "cached"
+  },
+  {
+    "id": "dionisio-pulido",
+    "status": "excluido",
+    "reason": "La imagen encontrada muestra el volcán Paricutín, no a Dionisio Pulido."
+  },
+  {
+    "id": "fox",
+    "status": "cached"
+  },
+  {
+    "id": "lopez-obrador",
+    "status": "cached"
+  },
+  {
+    "id": "sheinbaum",
+    "status": "cached"
+  },
+  {
+    "id": "xochitl-galvez",
+    "status": "cached"
+  },
+  {
+    "id": "alvarez-maynez",
+    "status": "cached"
+  },
+  {
+    "id": "marcos",
+    "status": "cached"
+  },
+  {
+    "id": "sicilia",
+    "status": "cached"
+  },
+  {
+    "id": "mencho-persona",
+    "status": "descargado",
+    "file": "El Mencho San Francisco.jpeg",
+    "license": "Public domain"
+  },
+  {
+    "id": "cuitlahuac",
+    "status": "descargado",
+    "file": "Cuitlahuac2.jpg",
+    "license": "Public domain"
+  },
+  {
+    "id": "nuno-guzman",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "NunoBeltranGuzman-1.jpg"
+    ]
+  },
+  {
+    "id": "martin-valencia",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Fray Martín de Valencia.png"
+    ]
+  },
+  {
+    "id": "ramirez-fuenleal",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Signature of Sebastián Ramírez de Fuenleal (c. 1490 – 1547).png",
+      "Detalle del retrato de Sebastián Ramírez.jpg"
+    ]
+  },
+  {
+    "id": "vasco-quiroga",
+    "status": "descargado",
+    "file": "Vasco de Quiroga.jpg",
+    "license": "Public domain"
+  },
+  {
+    "id": "pedro-gante",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Fraypedrodegante.jpg"
+    ]
+  },
+  {
+    "id": "andres-urdaneta",
+    "status": "descargado",
+    "file": "Andres de Urdaneta.jpg",
+    "license": "Public domain"
+  },
+  {
+    "id": "juan-cardenas",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": []
+  },
+  {
+    "id": "agustin-farfan",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Augustin Farfan. Reproduction of woodcut, 1914. Wellcome V0001865.jpg"
+    ]
+  },
+  {
+    "id": "alzate",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Jose antonio alzate ramirez.jpg",
+      "Jose Antonio Alzate. Lithograph by S. Hernandez. Wellcome V0000142.jpg"
+    ]
+  },
+  {
+    "id": "yermo",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Gabriel J. de Yermo.PNG"
+    ]
+  },
+  {
+    "id": "perez-serna",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Juan Pérez de la Serna.jpg"
+    ]
+  },
+  {
+    "id": "miguel-sanchez",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": []
+  },
+  {
+    "id": "maria-luisa-manrique",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": []
+  },
+  {
+    "id": "elizondo",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Francisco Ignacio de Elizondo y Villarreal.jpg"
+    ]
+  },
+  {
+    "id": "winfield-scott",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Winfield Scott by Fredricks, 1862 crop.jpg"
+    ]
+  },
+  {
+    "id": "juan-alvarez",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "General Juan Álvarez.jpg"
+    ]
+  },
+  {
+    "id": "comonfort",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Comonfort.png"
+    ]
+  },
+  {
+    "id": "gomez-farias",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Valentín Gómez Farías, portrait.JPG"
+    ]
+  },
+  {
+    "id": "zuloaga",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Felix Maria Zuloaga.jpg"
+    ]
+  },
+  {
+    "id": "carlota",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Carlota de mejico.jpg",
+      "Carlota Amalia de Bélgica.jpg"
+    ]
+  },
+  {
+    "id": "lerdo-presidente",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Presente Sebastián Lerdo de Tejada.png"
+    ]
+  },
+  {
+    "id": "william-greene",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "WilliamCornellGreene.jpg"
+    ]
+  },
+  {
+    "id": "ocampo",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Melchor Ocampo.jpg"
+    ]
+  },
+  {
+    "id": "huerta",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Victoriano Huerta en 1912.jpg"
+    ]
+  },
+  {
+    "id": "lazaro-cardenas",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "General Lázaro Cárdenas del Río (cropped).jpg",
+      "Lazaro cardenas2.jpg"
+    ]
+  },
+  {
+    "id": "avila-camacho",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Mexican President Avila Camacho in Monterrey, Mexico - NARA - 196060 (cropped).jpg",
+      "Manuel Avila Camacho.jpg"
+    ]
+  },
+  {
+    "id": "diaz-ordaz",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Gustavo Diaz Ordaz cropped.jpg"
+    ]
+  },
+  {
+    "id": "lopez-portillo",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Jose Lopez Portillo new.jpg"
+    ]
+  },
+  {
+    "id": "pino-suarez",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Vicepresidente José María Pino Suárez crop.jpg"
+    ]
+  },
+  {
+    "id": "miguel-aleman",
+    "status": "descargado",
+    "file": "Miguel Alemán Valdés (cropped)(2).jpg",
+    "license": "Public domain"
+  },
+  {
+    "id": "vasconcelos",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Jose Vasconcelos portriat c.1920s.jpg"
+    ]
+  },
+  {
+    "id": "echeverria",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Luis Echeverría CAC CC 001 18 13 0000 1280 (cropped).jpg"
+    ]
+  },
+  {
+    "id": "caro-quintero",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Rafael Caro Quintero.jpg"
+    ]
+  },
+  {
+    "id": "fonseca",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": []
+  },
+  {
+    "id": "de-la-madrid",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Miguel de la Madrid.jpg"
+    ]
+  },
+  {
+    "id": "clouthier",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Manuel Clouthier.jpg"
+    ]
+  },
+  {
+    "id": "zedillo",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Ernesto Zedillo Ponce de Leon Official Photo 1999 (cropped)(2).jpg"
+    ]
+  },
+  {
+    "id": "labastida",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "María de Lourdes, José Angel Espinoza Ferrusquilla y Francisco Labastida Ochoa (17603293742) (cropped).jpg"
+    ]
+  },
+  {
+    "id": "posadas",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Cardenal Juan Jesús Posadas Ocampo.jpg"
+    ]
+  },
+  {
+    "id": "amado-carrillo",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Amado Carrillo.png"
+    ]
+  },
+  {
+    "id": "ovidio",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Wanted Poster, Ovidio Guzmán López (cropped).jpg"
+    ]
+  },
+  {
+    "id": "mayo-zambada",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Mayo Zambada (cropped).jpg"
+    ]
+  },
+  {
+    "id": "joaquin-guzman-lopez",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Wanted Poster, Joaquin Guzman Lopez (cropped).png"
+    ]
+  },
+  {
+    "id": "hidalgo",
+    "status": "sin-imagen",
+    "reason": "No se encontró entre las imágenes consultadas un retrato descargable con licencia y atribución admitidas. No se usa material de prensa sin permiso.",
+    "candidates": [
+      "Generalísimo Miguel Hidalgo y Costilla.png"
+    ],
+    "attempts": [
+      {
+        "file": "Generalísimo Miguel Hidalgo y Costilla.png",
+        "result": "Metadatos, licencia o formato no admitidos",
+        "license": "",
+        "mime": "image/png"
+      }
+    ]
+  },
+  {
+    "id": "sor-juana",
+    "status": "descargado",
+    "file": "Sor Juana by Miguel Cabrera (cropped).jpg",
+    "license": "Public domain"
+  }
+]
