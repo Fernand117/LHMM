@@ -1,0 +1,26 @@
+import type { Connection } from './types'
+
+export const connections: Connection[] = [
+  { from: 'llegada-cortes', to: 'tenochtitlan', label: 'Proceso histórico', description: 'La expedición y las alianzas iniciadas en 1519 antecedieron al sitio de Tenochtitlan.', kind: 'documentada', sourceIds: ['bbc-conquista'] },
+  { from: 'cortes', to: 'llegada-cortes', label: 'Encabezó la expedición', description: 'Cortés encabezó la expedición española que desembarcó en 1519.', kind: 'documentada', sourceIds: ['bbc-conquista'] },
+  { from: 'malintzin', to: 'tenochtitlan', label: 'Intérprete y mediadora', description: 'Malintzin participó en el proceso de conquista como intérprete y mediadora.', kind: 'documentada', sourceIds: ['bbc-conquista'] },
+  { from: 'cuauhtemoc', to: 'tenochtitlan', label: 'Resistencia mexica', description: 'Cuauhtémoc encabezó la resistencia durante el sitio de Tenochtitlan.', kind: 'documentada', sourceIds: ['bbc-conquista'] },
+  { from: 'hidalgo', to: 'independencia', label: 'Convocó al levantamiento', description: 'Hidalgo convocó al levantamiento en Dolores en septiembre de 1810.', kind: 'documentada', sourceIds: ['cndh-independencia'] },
+  { from: 'madero', to: 'revolucion', label: 'Plan de San Luis', description: 'Madero convocó al levantamiento mediante el Plan de San Luis.', kind: 'documentada', sourceIds: ['cndh-revolucion'] },
+  { from: 'zapata', to: 'revolucion', label: 'Movimiento agrarista', description: 'El zapatismo fue una de las corrientes participantes en el proceso revolucionario.', kind: 'documentada', sourceIds: ['cndh-revolucion'] },
+  { from: 'revolucion', to: 'constitucion', label: 'Derechos sociales', description: 'El Constituyente de 1917 incorporó demandas sociales surgidas durante la Revolución.', kind: 'documentada', sourceIds: ['inah-constitucion'] },
+  { from: 'cartel-guadalajara', to: 'kiki-camarena', label: 'Investigación y procesos', description: 'El caso Camarena llevó a procesos contra integrantes de la organización de Guadalajara.', kind: 'documentada', sourceIds: ['dea-kiki', 'elpais-guadalajara'] },
+  { from: 'felix-gallardo', to: 'cartel-guadalajara', label: 'Dirigencia de la red', description: 'La prensa identifica a Félix Gallardo como uno de los dirigentes de la organización.', kind: 'documentada', sourceIds: ['elpais-guadalajara'] },
+  { from: 'felix-gallardo', to: 'kiki-camarena', label: 'Procesado por el caso', description: 'El caso Camarena derivó en procesos contra dirigentes de la red, incluido Félix Gallardo.', kind: 'documentada', sourceIds: ['elpais-guadalajara'] },
+  { from: 'kiki', to: 'kiki-camarena', label: 'Víctima del secuestro', description: 'Enrique Camarena fue secuestrado en Guadalajara el 7 de febrero de 1985.', kind: 'documentada', sourceIds: ['dea-kiki'] },
+  { from: 'sismo-1985', to: 'sismo-2017', label: 'Memoria y respuesta civil', description: 'Ambos sismos forman parte de la memoria de la organización ciudadana. No existe aquí un vínculo causal entre los movimientos geológicos.', kind: 'contexto', sourceIds: ['elpais-sismo85', 'ssn-sismo17'] },
+  { from: 'salinas', to: 'caida-sistema', label: 'Candidato declarado ganador', description: 'Salinas fue declarado ganador de la elección de 1988, cuestionada por sectores opositores.', kind: 'documentada', sourceIds: ['universal-1988'] },
+  { from: 'cardenas', to: 'caida-sistema', label: 'Candidato opositor', description: 'Cárdenas encabezó el Frente Democrático Nacional y cuestionó los resultados.', kind: 'documentada', sourceIds: ['universal-1988'] },
+  { from: 'salinas', to: 'ezln', label: 'Presidencia en 1994', description: 'El levantamiento del EZLN ocurrió durante el gobierno de Salinas. La conexión identifica el contexto político, no atribuye autoría del levantamiento.', kind: 'contexto', sourceIds: ['elpais-ezln'] },
+  { from: 'salinas', to: 'colosio', label: 'Contexto presidencial', description: 'Colosio fue asesinado durante la presidencia de Salinas. Esta relación temporal no atribuye responsabilidad por el crimen.', kind: 'contexto', sourceIds: ['elpais-colosio'] },
+  { from: 'colosio-persona', to: 'colosio', label: 'Candidato asesinado', description: 'Luis Donaldo Colosio fue asesinado en un acto de campaña en Tijuana.', kind: 'documentada', sourceIds: ['elpais-colosio'] },
+  { from: 'gargallo', to: 'toribio-gargallo', label: 'Poder regional reportado', description: 'El reportaje de Marjorie Miller recoge testimonios de habitantes y autoridades sobre Gargallo.', kind: 'documentada', sourceIds: ['latimes-gargallo'] },
+  { from: 'origen-zetas', to: 'fragmentacion-zetas', label: 'Ruptura y facciones', description: 'La organización se separó del Cártel del Golfo y posteriormente dio lugar a grupos sucesores.', kind: 'documentada', sourceIds: ['bbc-zetas', 'insight-fragmentacion'] },
+  { from: 'calderon', to: 'guerra-narco', label: 'Impulsó la estrategia', description: 'El gobierno de Calderón inició el despliegue federal de Michoacán en diciembre de 2006.', kind: 'documentada', sourceIds: ['universal-calderon'] },
+  { from: 'mencho-persona', to: 'mencho', label: 'Muerte reportada en el operativo', description: 'Reuters y EL PAÍS reportaron la muerte de Oseguera tras el operativo de Tapalpa.', kind: 'documentada', sourceIds: ['reuters-mencho', 'elpais-mencho'] },
+]

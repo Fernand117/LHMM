@@ -1,0 +1,63 @@
+[
+  {
+    "id": "city",
+    "file": "Sobrevuelos CDMX HJ2A4913 (25514321687) (cropped).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sobrevuelos_CDMX_HJ2A4913_(25514321687)_(cropped).jpg",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/140660272@N07\">Gobierno CDMX</a>",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Fotografías de la Ciudad de México desde el aire."
+  },
+  {
+    "id": "revolution",
+    "file": "Decena trágica.JPG",
+    "source": "https://commons.wikimedia.org/wiki/File:Decena_tr%C3%A1gica.JPG",
+    "author": "Osuna",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "description": "Decena trágica. Soldados sublevados en acción. 1913. Fotografia: Osuna."
+  },
+  {
+    "id": "conquest",
+    "file": "Conquista-de-México-por-Cortés-Tenochtitlan-Painting.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png",
+    "author": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+    "license": "Public domain",
+    "description": "From the Conquest of México series. <br>Depicts the 1521 <a href=\"https://en.wikipedia.org/wiki/Fall_of_Tenochtitlan\" class=\"extiw\" title=\"w:Fall of Tenochtitlan\">Fall of Tenochtitlan</a> by Spanish Conquistador Hernán Cortés, in the <a href=\"//commons.wikimedia.org/wiki/Category:Spanish_conquest_of_the_Aztec_Empire\" title=\"Category:Spanish conquest of the Aztec Empire\">Spanish conquest of the Aztec Empire</a>."
+  },
+  {
+    "id": "earthquake",
+    "file": "1985 Mexico Earthquake - Collapsed General Hospital.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:1985_Mexico_Earthquake_-_Collapsed_General_Hospital.jpg",
+    "author": "<a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://www.usgs.gov/\" href=\"https://www.usgs.gov/\">United States Geological Survey</a>",
+    "license": "Public domain",
+    "description": "<a href=\"https://en.wikipedia.org/wiki/Mexico_city\" class=\"extiw\" title=\"en:Mexico city\">Mexico city</a> - Collapsed General Hospital"
+  },
+  {
+    "id": "guadalajara",
+    "file": "Panorámica Guadalajara desde edificio Bansi hacia norte (cropped).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_Guadalajara_desde_edificio_Bansi_hacia_norte_(cropped).jpg",
+    "author": "<a href=\"//commons.wikimedia.org/wiki/User:Isacdaavid\" title=\"User:Isacdaavid\">Isacdaavid</a>",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Guadalajara, Jalisco, México"
+  },
+  {
+    "id": "tezonapa",
+    "file": "Avenida Principal in Tezonapa.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenida_Principal_in_Tezonapa.jpg",
+    "author": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Heludin&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Heludin (page does not exist)\">Heludin</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Main avenue and some business right across from the park and Municipio"
+  },
+  {
+    "id": "tamaulipas",
+    "file": "El Bernalito, en el valle abajo de la Cuesta de Llera - panoramio.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Bernalito,_en_el_valle_abajo_de_la_Cuesta_de_Llera_-_panoramio.jpg",
+    "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20161015170236/http://www.panoramio.com/user/44886?with_photo_id=32762808\">panza.rayada</a>",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "El Bernalito, en el valle abajo de la Cuesta de Llera"
+  }
+]
